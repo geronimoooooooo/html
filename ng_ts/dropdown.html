@@ -1,0 +1,10 @@
+langs: string[] = ['English','French','German',]
+
+<select class="form-control">
+<option value="">Please select a language</option>
+<option *ngFor="let lang of langs"
+[value]="lang"> ①
+{{lang}} ②
+</option>
+</select>
+---------------------------------
