@@ -1,4 +1,5 @@
 skills: string[] = [];
+langs: string[] = ['English','French','German',]
 skills: Array = new Array();
 skills: string[] = ['Java', 'Angular'];
 skills: Array = ['Java', 'Angular'];
