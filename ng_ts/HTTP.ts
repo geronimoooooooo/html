@@ -45,3 +45,25 @@ search.set('limit', 25);
 this.http.put(url, {moo:"foo",goo:"loo"}, {search}).subscribe(res =>
 console.log(res.json()));
 }
+----------------------------------
+import 'rxjs/add/operator/toPromise';
+doGETAsPromise() {
+console.log("GET AS PROMISE");
+let url = `${this.apiRoot}/get`;
+this.http.get(url)
+.toPromise()
+.then(res => console.log(res.json()));
+}
+----------------------------------
+doGETWithHeaders() {
+console.log("GET WITH HEADERS");
+let headers = new Headers();
+headers.append('Authorization', btoa('username:password'));
+let opts = new RequestOptions();
+opts.headers = headers;
+let url = `${this.apiRoot}/get`;
+this.http.get(url, opts).subscribe(
+res => console.log(res.json()),
+msg => console.error(`Error: ${msg.status} ${msg.statusText}`)
+);
+}
