@@ -1,3 +1,1 @@
 
-Enabling bootstrap content assist in eclipse: http://java.jasks.org/enabling_bootstrap_content_assist_in_eclipse
-
