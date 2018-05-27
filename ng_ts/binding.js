@@ -38,4 +38,11 @@ class ProductsComponent{
 //wird in products.html hingeschrieben
 <app-product class="col-md-3" [product]="p" (removed)="deleteProduct($event)" *ngFor="let p of products"></app-product>
 --------------------------------------------------------------
+//übergeben selectedHeroes an andere component und dort werden dann Einzelheiten gezeigt.
+//in heroes.component.html
+<app-hero-detail [hero]="selectedHero"></app-hero-detail>
+//in hero-detail.component.ts
+import { Component, OnInit, Input } from '@angular/core';
+ @Input() hero:Hero;
+
 -------------------------------------------------------------
