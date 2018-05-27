@@ -9,3 +9,9 @@ export class AppComponent {
   this.user.emailId = 'ankit@ngdevelop.tech';
   }
 }
+--------------------
+  hero: Hero = {
+    id: 1,
+    name: 'Windstorm'
+  };
+------------------------------
