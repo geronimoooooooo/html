@@ -21,3 +21,8 @@
 <joke *ngFor="let j of jokes" [joke]="j">
 </joke>
 -------------------------------------------------
+//Add a class to element if selected/true
+<li *ngFor="let hero of heroes"
+  [class.selected]="hero === selectedHero"
+  (click)="onSelect(hero)">
+-------------------------------------------------
