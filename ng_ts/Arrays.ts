@@ -66,3 +66,13 @@ export const HEROES: Hero[] = [
   { id: 20, name: 'Tornado' }
 ];
 ------------------------------------------
+ messages: string[] = [];
+ 
+  add(message: string) {
+    this.messages.push(message);
+  }
+ 
+  clear() {
+    this.messages = [];
+  }
+-------------------------------------------
