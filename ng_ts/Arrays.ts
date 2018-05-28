@@ -76,3 +76,5 @@ export const HEROES: Hero[] = [
     this.messages = [];
   }
 -------------------------------------------
+  return of(HEROES.find(hero => hero.id === id));
+--------------------------------------------
