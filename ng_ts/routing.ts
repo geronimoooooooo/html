@@ -24,3 +24,6 @@ export class AppRoutingModule { }
       <span class="badge">{{hero.id}}</span> {{hero.name}}
   </a>
 ---------------------------------------------
+//Wenn man im code irgendwo auf eine Routerseite möchte
+       this.router.navigateByUrl('/dashboard');
+---------------------------------------------
