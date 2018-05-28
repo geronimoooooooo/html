@@ -17,6 +17,10 @@ RouterModule
 declarations: []
 })
 export class AppRoutingModule { }
-----------------
+----------------------------------------------------
   <router-outlet></router-outlet> in app.component.html
-------------
+---------------------------------------
+  <a routerLink="/detail/{{hero.id}}">
+      <span class="badge">{{hero.id}}</span> {{hero.name}}
+  </a>
+---------------------------------------------
