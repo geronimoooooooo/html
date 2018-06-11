@@ -2,6 +2,8 @@
 Template driven forms: recht simpel, fast alles in html, wenig in component, blöd für unit testing
 https://www.concretepage.com/angular-2/angular-2-radio-button-and-checkbox-example#technologies
 http://next.plnkr.co/edit/f4Dj1ZPVJHe6kcuF3Bk2?p=preview&preview
+https://angular.io/api/forms/RadioControlValueAccessor
+https://www.barbarianmeetscoding.com/blog/2016/03/29/getting-started-with-angular-2-step-by-step-5-forms-and-validation/
 ========
 * import {FormsModule} from "@angular/forms";
 
@@ -46,3 +48,47 @@ user = {
       <label>Password:</label>
       <input type="password" name="password" required ngModel>
 </p>
+---------------------------------------
+UPDATE INPUT FIELD (oldsql)
+<div>
+    <label for="name">Name: </label>
+    <input type="text"
+           name="name"
+           [value]="person.name"
+           (change)="person.name = name.value"
+           #name>
+</div>
+UPDATE INPUT FIELD (new)
+<div>
+    <label for="name">Name: </label>
+    <input type="text" name="name" [(ngModel)]="person.name">
+</div>
+--------------------------------------------
+<section *ngIf="person">
+  <section>
+    <h2>You selected: {{person.name}}</h2>
+    <h3>Description</h3>
+    <p>
+      {{person.name}} weights {{person.weight}} and is {{person.height}} tall.
+    </p>
+  </section>
+  <section>
+    <form>
+      <div>
+        <label for="name">Name: </label>
+        <input type="text" name="name" [(ngModel)]="person.name">
+      </div>
+      <div>
+        <label for="weight">Weight: </label>
+        <input type="number" name="weight" [(ngModel)]="person.weight">
+      </div>
+      <div>
+        <label for="height">Height: </label>
+        <input type="number" name="height" [(ngModel)]="person.height">
+      </div>
+    </form>
+  </section>
+
+  <button (click)="gotoPeoplesList()">Back to peoples list</button>
+</section>
+-----------------------------------------
