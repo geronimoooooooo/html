@@ -31,5 +31,22 @@ for(let i=0; i<data.products.length; i++){
     console.log(data.products[i].product_desc); //use i instead of 0
 }
 -----------------------------------------------------
+  folgendes muss in tsconfig.json eingefügt werden
+  "target": "es5",
+    "downlevelIteration": true,
+    "typeRoots": [
+      "node_modules/@types"
+    ],
+    "lib": [
+      "es2017",
+      "dom",
+      "es2015.collection",
+      "es2015.iterable"
+    ]
+  }
+  
+  map.forEach((value: string, key: string) => {
+  console.log(key, value);
+   });
 -----------------------------------------------------
 -----------------------------------------------------
