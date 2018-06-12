@@ -2,6 +2,7 @@
         alert(`saved!!! ${JSON.stringify(this.person)}`);
     }
 ---------------------------
+ Object <==> JSON string
  return JSON.parse(JSON.stringify(object));
 ---------------------------
 How to parse JSON string in Typescript
