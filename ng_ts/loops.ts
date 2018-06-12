@@ -21,6 +21,15 @@ ngOnChanges(changes: SimpleChanges) {
 -----------------------------------------------------
   <tr *ngFor="let entry of entries; let idx = index">
 -----------------------------------------------------
+//this sets all product descriptions to a max length of 10 characters
+data.products.forEach( (element) => {
+    element.product_desc = element.product_desc.substring(0,10);
+});
+Your version wasn't wrong though. It should look more like this:
+
+for(let i=0; i<data.products.length; i++){
+    console.log(data.products[i].product_desc); //use i instead of 0
+}
 -----------------------------------------------------
 -----------------------------------------------------
 -----------------------------------------------------
