@@ -1,6 +1,10 @@
 http://www.w3schools.com/css/default.asp
 http://www.tutorialspoint.com/css/index.htm
 
+https://marksheet.io/internet.html
+https://htmlcolorcodes.com/tutorials/
+
+
 + External
 <head>
 <link rel="stylesheet" type="text/css" href="mystyle.css">
