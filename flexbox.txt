@@ -1,1 +1,2 @@
 https://yoksel.github.io/flex-cheatsheet/#align-self
+https://css-tricks.com/snippets/css/a-guide-to-flexbox/
