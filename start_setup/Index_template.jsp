@@ -29,6 +29,8 @@
 <title>Test</title>
 </head>
 	<body>
-hi
-</body>
+		hi
+		<!-- #region tst-->
+    <!-- #endregion test-->
+	</body>
 </html>
