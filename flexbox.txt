@@ -1,4 +1,5 @@
 https://jonibologna.com/content/flexboxsheet.pdf
+https://www.freecodecamp.org/news/flexbox-the-ultimate-css-flex-cheatsheet/
 https://yoksel.github.io/flex-cheatsheet/#align-self
 https://css-tricks.com/snippets/css/a-guide-to-flexbox/
 http://flexbox.malven.co/
