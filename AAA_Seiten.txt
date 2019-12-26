@@ -1,3 +1,11 @@
 https://marksheet.io
+https://html-css-js.com/
+
 
 Auflistung aller HTML Elemente: https://developer.mozilla.org/en-US/docs/Web/HTML/Element
+
+
+CSS Properties/reference: https://github.com/geronimoooooooo/html/edit/master/css/AAA_sites.txt
+
+
+
