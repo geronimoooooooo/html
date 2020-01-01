@@ -10,6 +10,7 @@ HTML cheat sheet: https://websitesetup.org/wp-content/uploads/2019/08/HTML-CHEAT
 
 CSS Properties/reference: 
 CSS cheat sheet: https://websitesetup.org/css3-cheat-sheet/
+CSS cheat sheet mit Examples: https://github.com/Danielhurst93/CSS-Cheat-Sheet/blob/master/style.css
 
 
 Grafische Auflistung aller HTML/CSS Elemente: https://acchou.github.io/html-css-cheat-sheet/html-css-cheat-sheet.html#css-pseudo-nonexistent
