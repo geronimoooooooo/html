@@ -9,15 +9,19 @@ Media queries can be used to check many things, such as:
     width and height of the device
     orientation (is the tablet/phone in landscape or portrait mode?)
     resolution
+    
 A media query consists of a media type and can contain one or more expressions, which resolve to either true or false
+    
     @media not|only mediatype and (expressions) {
     CSS-Code;
     }
+    
     mediatypes:
         all	Used for all media type devices
         print	Used for printers
         screen	Used for computer screens, tablets, smart-phones etc.
         speech	Used for screenreaders that "reads" the page out loud
+    
     expressions:
         can be something like --> min-width: 480px;
 */
