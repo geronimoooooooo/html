@@ -2,7 +2,9 @@ https://marksheet.io
 https://html-css-js.com/
 https://css-tricks.com/snippets/css/
 
-Auflistung aller HTML Elemente: https://developer.mozilla.org/en-US/docs/Web/HTML/Element
+Auflistung aller HTML Elemente: 
+* https://websitesetup.org/html5-periodical-table/
+* https://developer.mozilla.org/en-US/docs/Web/HTML/Element
 
 
 CSS Properties/reference: 
