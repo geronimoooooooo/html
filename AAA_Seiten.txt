@@ -12,6 +12,7 @@ CSS Properties/reference:
 CSS cheat sheet: https://websitesetup.org/css3-cheat-sheet/
 
 
+Grafische Auflistung aller HTML/CSS Elemente: https://acchou.github.io/html-css-cheat-sheet/html-css-cheat-sheet.html#css-pseudo-nonexistent
 
 ===JavaScript===
 Auflistung JavaScript cooler Funktionen: https://websitesetup.org/javascript-cheat-sheet/
