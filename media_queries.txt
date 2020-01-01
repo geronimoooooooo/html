@@ -1,0 +1,58 @@
+/*-----------------------
+    CSS MEDIA QUERIES 
+------------------------*/
+
+/*
+Allows you to define different style rules for different media types or different sizes of devices.
+Media queries can be used to check many things, such as:
+    width and height of the viewport --> viewport is the user's visible area of a web page.
+    width and height of the device
+    orientation (is the tablet/phone in landscape or portrait mode?)
+    resolution
+A media query consists of a media type and can contain one or more expressions, which resolve to either true or false
+    @media not|only mediatype and (expressions) {
+    CSS-Code;
+    }
+    mediatypes:
+        all	Used for all media type devices
+        print	Used for printers
+        screen	Used for computer screens, tablets, smart-phones etc.
+        speech	Used for screenreaders that "reads" the page out loud
+    expressions:
+        can be something like --> min-width: 480px;
+*/
+
+/*example*/
+
+/*
+ This seems like a mobile first approach where "normally" the background will be like pink
+ but once we start using bigger devices that are 480px wider, it will change to lightgreen 
+ */
+body {
+    background-color: pink;
+}
+  
+@media screen and (min-width: 480px) {
+
+    body {
+      background-color: lightgreen; /* once its bigger than 480, it will change to this color */
+    }
+
+}
+
+/*-------------------
+    CSS VIEWPORT 
+--------------------*/
+
+/*
+    The viewport is the size of the window you're viewing your website on. On desktop, that size is easy to see, its just the size of
+    your browser.
+    For mobile, it is not obvious at all. Most mobile browsers by DEFAULT will have a viewport size of about 980px in width.
+    When you try to view a website on the phone, you will notice how the content is all squashed inside in order to fit
+    it into the actual physical width of the screen. It could be a width of 320px. So now imagine trying to fit 980px of content
+    into a physical window of 320px. Everything will look very small and ugly. 
+    We need to overwrite this by using the meta viewport tag:
+    <meta name="viewport" content="widht=device-width, initial-scale=1"> in the content we overwrite the default width of the browsers by making sure
+    it is responsive. In other words, depending on the device, our viewport will take on that device's width.
+    Also the initial-scale is the zoom intensity. So value of 1 is not zoom at all.
+*/
