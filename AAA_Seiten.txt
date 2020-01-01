@@ -5,7 +5,7 @@ https://css-tricks.com/snippets/css/
 Auflistung aller HTML Elemente: https://developer.mozilla.org/en-US/docs/Web/HTML/Element
 
 
-CSS Properties/reference: https://github.com/geronimoooooooo/html/edit/master/css/AAA_sites.txt
-
+CSS Properties/reference: 
+CSS cheat sheet: https://websitesetup.org/css3-cheat-sheet/
 
 
