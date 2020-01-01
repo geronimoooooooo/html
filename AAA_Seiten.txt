@@ -5,6 +5,7 @@ https://css-tricks.com/snippets/css/
 Auflistung aller HTML Elemente: 
 * https://websitesetup.org/html5-periodical-table/
 * https://developer.mozilla.org/en-US/docs/Web/HTML/Element
+HTML cheat sheet: https://websitesetup.org/wp-content/uploads/2019/08/HTML-CHEAT-SHEET.png
 
 
 CSS Properties/reference: 
