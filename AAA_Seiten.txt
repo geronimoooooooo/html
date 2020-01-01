@@ -11,3 +11,8 @@ CSS Properties/reference:
 CSS cheat sheet: https://websitesetup.org/css3-cheat-sheet/
 
 
+
+===JavaScript===
+Auflistung JavaScript cooler Funktionen: https://websitesetup.org/javascript-cheat-sheet/
+
+
