@@ -1,5 +1,3 @@
-http://protostrap.com/dashboard/designer/edit
-http://fortawesome.github.io/Font-Awesome/icons/
 https://formden.com/form-builder/
 http://www.francescomalagrino.com/FormBuilder/3/
 
