@@ -2,6 +2,7 @@ https://marksheet.io
 https://overapi.com/javascript
 https://html-css-js.com/
 https://css-tricks.com/snippets/css/
+https://www.tutorialrepublic.com
 
 Auflistung aller HTML Elemente: 
 * https://websitesetup.org/html5-periodical-table/
@@ -21,6 +22,7 @@ Auflistung JavaScript cooler Funktionen: https://websitesetup.org/javascript-che
 
 
 ===Bootstrap===
+https://www.tutorialrepublic.com/twitter-bootstrap-examples.php
 https://bootstrapcreative.com/resources/bootstrap-4-css-classes-index/
 https://hackerthemes.com/bootstrap-cheatsheet/#card-columns
 https://www.frontendcheatsheets.com/bootstrap
