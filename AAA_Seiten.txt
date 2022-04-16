@@ -31,7 +31,6 @@ https://bootstrapcreative.com/resources/bootstrap-4-css-classes-index/
 https://hackerthemes.com/bootstrap-cheatsheet/#card-columns
 https://www.frontendcheatsheets.com/bootstrap
 https://websitesetup.org/bootstrap-cheat-sheet/
-https://bootstrapcheat.com/
 https://bootstrap-cheatsheet.themeselection.com/
 https://www.w3schools.com/bootstrap/bootstrap_ref_all_classes.asp
 https://www.youtube.com/watch?v=-qfEOE4vtxE
