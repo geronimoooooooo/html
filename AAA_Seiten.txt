@@ -33,3 +33,8 @@ https://www.frontendcheatsheets.com/bootstrap
 https://websitesetup.org/bootstrap-cheat-sheet/
 https://bootstrapcheat.com/
 https://bootstrap-cheatsheet.themeselection.com/
+https://www.w3schools.com/bootstrap/bootstrap_ref_all_classes.asp
+https://www.youtube.com/watch?v=-qfEOE4vtxE
+https://www.youtube.com/playlist?list=PL6n9fhu94yhXd4xnk-j5FGhHjUv1LsF0V
+https://www.youtube.com/watch?v=eow125xV5-c
+https://www.tutorialspoint.com/bootstrap/index.htm
