@@ -4,6 +4,11 @@ https://html-css-js.com/
 https://css-tricks.com/snippets/css/
 https://www.tutorialrepublic.com
 
+=====IDE=====
+https://stackblitz.com/
+https://codepen.io/
+https://jsfiddle.net/
+
 https://docs.w3cub.com/html/element/details
 https://developer.mozilla.org/en-US/docs/Web/CSS/:focus-within
 https://css-tricks.com/almanac/selectors/f/focus-within/
