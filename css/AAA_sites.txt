@@ -1,5 +1,0 @@
-https://www.w3schools.com/css/default.asp
-
-
-
-CSS Properties/reference: https://github.com/geronimoooooooo/html/edit/master/css/AAA_sites.txt
