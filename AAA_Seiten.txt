@@ -42,11 +42,12 @@ https://getdatepicker.com/
 https://getbootstrap.com/
 https://www.tutorialrepublic.com/twitter-bootstrap-examples.php
 https://getbootstrap.com/docs/5.1/examples/
-https://bootstrapcreative.com/resources/bootstrap-4-css-classes-index/
 https://hackerthemes.com/bootstrap-cheatsheet/#card-columns
 https://www.frontendcheatsheets.com/bootstrap
 https://websitesetup.org/bootstrap-cheat-sheet/
 https://www.w3schools.com/bootstrap/bootstrap_ref_all_classes.asp
 https://www.tutorialspoint.com/bootstrap/index.htm
 ---Auflistung aller Klassen zu Bootstrap---
+
 https://bootstrap-cheatsheet.themeselection.com/
+https://bootstrapcreative.com/resources/bootstrap-5-cheat-sheet-classes-index/
