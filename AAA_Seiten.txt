@@ -45,9 +45,10 @@ https://getbootstrap.com/docs/5.1/examples/
 https://hackerthemes.com/bootstrap-cheatsheet/#card-columns
 https://www.frontendcheatsheets.com/bootstrap
 https://websitesetup.org/bootstrap-cheat-sheet/
-https://www.w3schools.com/bootstrap/bootstrap_ref_all_classes.asp
 https://www.tutorialspoint.com/bootstrap/index.htm
----Auflistung aller Klassen zu Bootstrap---
 
+---Auflistung aller Klassen zu Bootstrap---
 https://bootstrap-cheatsheet.themeselection.com/
 https://bootstrapcreative.com/resources/bootstrap-5-cheat-sheet-classes-index/
+https://bootstrapshuffle.com/de/classes
+https://www.w3schools.com/bootstrap/bootstrap_ref_all_classes.asp
