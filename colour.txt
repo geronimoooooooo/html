@@ -1,1 +1,10 @@
 amazon background: #f6f6f6
+-----------------------------------------------------------------------------------------------------
+https://marksheet.io/css-gradients.html#radial-gradient
+.button-grey  { background-image: linear-gradient(#f2f2f2, #f2f2f2);}
+.button-yellow{ background-image: linear-gradient(#fce374, #fcdf5b);}
+.button-orange{ background-image: linear-gradient(#f58a38, #f57c20);}
+.button-red   { background-image: linear-gradient(#ed6d64, #ed574c);}
+.button-purple{ background-image: linear-gradient(#847bba, #7568ba);}
+.button-blue  { background-image: linear-gradient(#42b0e3, #2ba9e3);}
+.button-green { background-image: linear-gradient(#97cc76, #8bcc62);}
