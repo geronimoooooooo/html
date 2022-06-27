@@ -1,0 +1,2 @@
+Tomcat stoppen, welcher automatisch vom OS gestartet wurde
+in cmd: cd C:\Program Files\Apache Software Foundation\Tomcat 8.5\bin> Tomcat8.exe stop
