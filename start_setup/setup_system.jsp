@@ -83,6 +83,7 @@
 		<li>Autocomplete für Bootstrap:
     <ul>
     <li> http://stackoverflow.com/questions/43389337/autocomplete-von-available-css-classes-in-html-javascript-jquery-in-eclipse</li>
+    <li> Bootstrap downloaden, entpacken und die datei bootstrap.css lokal verlinken. Nur dann taucht das bei Autocompletion auf.</li>
     </ul>
     <li>Autocomplete für JavaScript:</li>
     <ul>
