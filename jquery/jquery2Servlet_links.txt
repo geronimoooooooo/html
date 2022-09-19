@@ -1,3 +1,12 @@
+jQuery AJAX JSP Servlet Java Example
+https://www.digitalocean.com/community/tutorials/jquery-ajax-jsp-servlet-java-example
+
+Submit a Form to Servlet using JQuery
+https://java-demos.blogspot.com/2013/11/submit-form-to-servlet-using-jquery.html
+
+https://www.programming-free.com/2012/08/ajax-with-jsp-and-servlet-using-jquery.html
+
+
 http://www.journaldev.com/4742/jquery-ajax-servlet-jsp-web-application-integration-example-tutorial
 
   response.setContentType("text/plain");
