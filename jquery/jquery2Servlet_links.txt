@@ -4,11 +4,11 @@ https://www.digitalocean.com/community/tutorials/jquery-ajax-jsp-servlet-java-ex
 Submit a Form to Servlet using JQuery
 https://java-demos.blogspot.com/2013/11/submit-form-to-servlet-using-jquery.html
 
+Send Form Data with ajax to servlet: https://errorsandanswers.com/jquery-ajax-post-data-in-a-java-servlet/
+
 https://www.programming-free.com/2012/08/ajax-with-jsp-and-servlet-using-jquery.html
 https://www.onlyxcodes.com/2021/05/call-servlet-from-ajax-jquery.html
 http://tech-lead.blogspot.com/2014/09/calling-servlet-using-jquery-ajax.html
-https://errorsandanswers.com/jquery-ajax-post-data-in-a-java-servlet/
-https://javawithus.com/en/sending-an-ajax-post-request-to-a-servlet/
 https://learningprogramming.net/java/jsp-servlet/ajax-in-jsp-servlet/
 https://raviteja8.wordpress.com/2017/05/03/ajax-call-in-jsp-to-fetch-and-display-data-from-database/
 
