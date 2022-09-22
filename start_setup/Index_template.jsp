@@ -8,8 +8,8 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta name="description" content="A simple HTML and CSS webpage">
 	
-<script	src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.0/jquery.min.js"></script>
-<script	src="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>
+<script	src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0/dist/js/bootstrap.bundle.min.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
 
 <link rel="stylesheet" href="css/jquery.toast.min.css">
 <script src="js/jquery.toast.min.js"></script>	
@@ -23,10 +23,13 @@
  <link rel="stylesheet" type="text/css" href="css/css.css">
  <link rel="stylesheet" href="css/c_css.css">
  <!-- bootstrap.css muss als letztes aufgelistet werden, ansonsten spackt irgendwas rum -->
- <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css">
+<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0/dist/css/bootstrap.min.css"rel="stylesheet">
  
  <link rel="icon" href="img/favicon.ico?v=2" type="image/vnd.microsoft.icon">
  <link rel="icon" href="img/favicon.ico" type="image/vnd.microsoft.icon">
+
+<link rel="icon" type="image/png" sizes="32x32"	href="../img/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="96x96"	href="../img/favicon-96x96.png">
  
 <title>Test</title>
 </head>
