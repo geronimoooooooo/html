@@ -10,7 +10,6 @@ https://codepen.io/
 https://jsfiddle.net/
 http://www.bootply.com/UwQzdPxBNI#
 
-
 https://docs.w3cub.com/html/element/details
 https://developer.mozilla.org/en-US/docs/Web/CSS/:focus-within
 https://css-tricks.com/almanac/selectors/f/focus-within/
@@ -20,11 +19,9 @@ Auflistung aller HTML Elemente:
 * https://developer.mozilla.org/en-US/docs/Web/HTML/Element
 HTML cheat sheet: https://websitesetup.org/wp-content/uploads/2019/08/HTML-CHEAT-SHEET.png
 
-
 CSS Properties/reference: 
 CSS cheat sheet: https://websitesetup.org/css3-cheat-sheet/
 CSS cheat sheet mit Examples: https://github.com/Danielhurst93/CSS-Cheat-Sheet/blob/master/style.css
-
 
 Grafische Auflistung aller HTML/CSS Elemente: https://acchou.github.io/html-css-cheat-sheet/html-css-cheat-sheet.html#css-pseudo-nonexistent
 
@@ -36,8 +33,6 @@ https://uxsolutions.github.io/bootstrap-datepicker https://github.com/uxsolution
 https://formden.com/blog/date-picker
 https://getdatepicker.com/
 
-
-
 ======Bootstrap======
 https://getbootstrap.com/
 https://www.tutorialrepublic.com/twitter-bootstrap-examples.php
@@ -47,8 +42,13 @@ https://www.frontendcheatsheets.com/bootstrap
 https://websitesetup.org/bootstrap-cheat-sheet/
 https://www.tutorialspoint.com/bootstrap/index.htm
 
----Auflistung aller Klassen zu Bootstrap---
+=======Auflistung aller Klassen zu Bootstrap=======
+https://www.tutorialrepublic.com/twitter-bootstrap-examples.php
+https://hackerthemes.com/bootstrap-cheatsheet/
 https://bootstrap-cheatsheet.themeselection.com/
+https://www.w3schools.com/bootstrap/bootstrap_ref_all_classes.asp
+https://hackr.io/blog/bootstrap-cheat-sheet
+https://getbootstrap.com/docs/5.2/getting-started/introduction/
 https://bootstrapcreative.com/resources/bootstrap-5-cheat-sheet-classes-index/
 https://bootstrapshuffle.com/de/classes
-https://www.w3schools.com/bootstrap/bootstrap_ref_all_classes.asp
+
