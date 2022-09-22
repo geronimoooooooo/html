@@ -1,1 +1,3 @@
 https://www.onlyxcodes.com/2021/05/call-servlet-from-ajax-jquery.html
+https://errorsandanswers.com/jquery-ajax-post-data-in-a-java-servlet/
+Calling a Servlet Using JQuery Ajax: http://tech-lead.blogspot.com/2014/09/calling-servlet-using-jquery-ajax.html
