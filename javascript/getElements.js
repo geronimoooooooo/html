@@ -20,6 +20,8 @@ function displayDate() {
 </script>
 <p id="demo"></p>
 -----------------------------------------------------------------------
+    Javascript Changing Variable On Button Click
+https://www.learn-codes.net/javascript/javascript-changing-variable-on-button-click/
 -----------------------------------------------------------------------
 -----------------------------------------------------------------------
 -----------------------------------------------------------------------
