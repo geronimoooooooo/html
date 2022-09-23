@@ -3,3 +3,5 @@ https://errorsandanswers.com/jquery-ajax-post-data-in-a-java-servlet/
 Calling a Servlet Using JQuery Ajax: http://tech-lead.blogspot.com/2014/09/calling-servlet-using-jquery-ajax.html
 AJAX with JSP and Servlet using jQUERY: https://www.programming-free.com/2012/08/ajax-with-jsp-and-servlet-using-jquery.html
 https://www.programming-free.com/2012/09/ajax-with-servlets-using-jquery-and-json.html
+
+https://learningprogramming.net/java/jsp-servlet/ajax-in-jsp-servlet/
