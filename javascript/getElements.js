@@ -23,6 +23,9 @@ function displayDate() {
     Javascript Changing Variable On Button Click
 https://www.learn-codes.net/javascript/javascript-changing-variable-on-button-click/
 -----------------------------------------------------------------------
+ var target = document.getElementById( "target" );
+ target.innerHTML = "<td>Hello <b>World</b>!</td>";
+$( target ).html( "<td>Hello <b>World</b>!</td>" );
 -----------------------------------------------------------------------
 -----------------------------------------------------------------------
 -----------------------------------------------------------------------
