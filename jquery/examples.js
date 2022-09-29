@@ -10,7 +10,8 @@ $(function() {
 
 if checkbox checked https://www.javatpoint.com/jquery-prop
 
-
+$("li").each(function(){  
+alert($(this).text())  
 
 
 }); 
