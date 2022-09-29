@@ -13,5 +13,8 @@ if checkbox checked https://www.javatpoint.com/jquery-prop
 $("li").each(function(){  
 alert($(this).text())  
 
+var d = $("#d2").html();
+$("#d1").replaceWith(d);
+
 
 }); 
