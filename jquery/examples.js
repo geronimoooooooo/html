@@ -15,6 +15,10 @@ alert($(this).text())
 
 var d = $("#d2").html();
 $("#d1").replaceWith(d);
+  
+  //<span id = "s1"> Click me </span> 
+  if ($(this).is("#s1")) {
+$("#s1").text("This is first span element").css({"background-color": "yellow", "font-size": "20px"});
 
 
 }); 
