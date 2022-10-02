@@ -20,5 +20,5 @@ $("#d1").replaceWith(d);
   if ($(this).is("#s1")) {
 $("#s1").text("This is first span element").css({"background-color": "yellow", "font-size": "20px"});
 
-
+$(this).hide(); //current element
 }); 
