@@ -19,7 +19,8 @@ $("#d1").replaceWith(d);
   
   //<span id = "s1"> Click me </span> 
   if ($(this).is("#s1")) {
-$("#s1").text("This is first span element").css({"background-color": "yellow", "font-size": "20px"});
+  $("#s1").text("This is first span element").css({"background-color": "yellow", "font-size": "20px"});
+  $("h2").nextAll().css({"color": "red", "border": "2px solid red"});
 
 $(this).hide(); //current element
 }); 
