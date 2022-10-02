@@ -1,3 +1,5 @@
+https://www.w3schools.com/JSREF/prop_text_value.asp
+-----------------------------------------------------------------------
 <script type="text/javascript">
     function Validate() {
         var password = document.getElementById("txtPassword").value;
