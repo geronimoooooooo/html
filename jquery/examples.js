@@ -6,6 +6,7 @@ $(function() {
 
   $("p").css("color", "red");  
   $("input").css("background-color", "violet");  
+  $(this).css("background-color", "lightblue");
 
 
 if checkbox checked https://www.javatpoint.com/jquery-prop
