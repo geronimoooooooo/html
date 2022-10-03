@@ -21,6 +21,13 @@ $("#d1").replaceWith(d);
   if ($(this).is("#s1")) {
   $("#s1").text("This is first span element").css({"background-color": "yellow", "font-size": "20px"});
   $("h2").nextAll().css({"color": "red", "border": "2px solid red"});
+    
+  if($(this).prop("checked") == true){
+    $('form input[type="submit"]').prop("disabled", false);
+  }
+  else if($(this).prop("checked") == false){
+      $('form input[type="submit"]').prop("disabled", true);
+  }
 
 $(this).hide(); //current element
 }); 
