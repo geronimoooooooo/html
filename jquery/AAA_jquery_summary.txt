@@ -1,4 +1,5 @@
 http://www.w3schools.com/jquery/default.asp
+http://www.java2s.com/Tutorials/jQuery/jQuery_Tutorial/Selector/jQuery_Selector.htm
 http://api.jquery.com/text/
 http://www.tutorialrepublic.com/jquery-tutorial/
 JSDT jQuery autocompletion: https://marketplace.eclipse.org/content/jsdt-jquery
