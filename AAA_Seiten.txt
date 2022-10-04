@@ -49,6 +49,14 @@ https://www.frontendcheatsheets.com/bootstrap
 https://websitesetup.org/bootstrap-cheat-sheet/
 https://www.tutorialspoint.com/bootstrap/index.htm
 
+======AJAX======
+https://gist.githubusercontent.com/geronimoooooooo/a916893a267fbd2b2701/raw/39d85d6b67fc2cb7abce16a5fc8ccebba11692c5/multi.geojson
+
+http://www.pureexample.com/jquery/ajax-complete.html
+http://www.tutorialspoint.com/jquery/jquery-ajax.htm
+https://api.jquery.com/category/ajax/
+http://www.w3schools.com/jquery/jquery_ref_ajax.asp
+
 
 
 =======Auflistung aller Klassen zu Bootstrap=======
