@@ -4,6 +4,16 @@ Button rechts
  </div>
  <button class="btn-info btn pull-right">Log in</button>
 --------------------------------------------------------------------------------
+.clearfix:after { content: "\00A0"; display: block; clear: both; visibility: hidden; line-height: 0; height: 0;}
+.clearfix{ display: inline-block;}
+html[xmlns] .clearfix { display: block;}
+* html .clearfix{ height: 1%;}
+.clearfix {display: block}
+
+<div class="clearfix" >
+  <div style="float: left;">left</div>
+  <div style="float: right;">right</div>
+</div>
 --------------------------------------------------------------------------------
 --------------------------------------------------------------------------------
 --------------------------------------------------------------------------------
