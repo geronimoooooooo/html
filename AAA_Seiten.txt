@@ -11,6 +11,11 @@ https://jsfiddle.net/
 http://www.bootply.com/UwQzdPxBNI#
 https://www.codeply.com/
 
+=====jQuery=====
+http://www.w3schools.com/jquery/jquery_examples.asp
+http://www.tutorialrepublic.com/jquery-examples.php
+Selectors: http://www.tutorialrepublic.com/jquery-reference/jquery-selectors.php
+
 https://docs.w3cub.com/html/element/details
 https://developer.mozilla.org/en-US/docs/Web/CSS/:focus-within
 https://css-tricks.com/almanac/selectors/f/focus-within/
@@ -36,12 +41,15 @@ https://getdatepicker.com/
 
 ======Bootstrap======
 https://getbootstrap.com/
+http://www.w3resource.com/twitter-bootstrap/examples.php
 https://www.tutorialrepublic.com/twitter-bootstrap-examples.php
 https://getbootstrap.com/docs/5.1/examples/
 https://hackerthemes.com/bootstrap-cheatsheet/#card-columns
 https://www.frontendcheatsheets.com/bootstrap
 https://websitesetup.org/bootstrap-cheat-sheet/
 https://www.tutorialspoint.com/bootstrap/index.htm
+
+
 
 =======Auflistung aller Klassen zu Bootstrap=======
 https://www.tutorialrepublic.com/twitter-bootstrap-examples.php
