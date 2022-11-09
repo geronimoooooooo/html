@@ -1,0 +1,6 @@
+Projekt umbenennen
++ Projekt kopieren und einfügen
++ rechtsklick auf Projekt in Eclispe, bei Web Project Settings neuen Namen eingeben (context-root)
++ in server.xml Name beim <context> anpassen
++ web.xml display-name umbenennen
++ in das Projekt gehen und in diesem nach dem alten Namen suchen. Alle Vorkommen dann umbenennen
