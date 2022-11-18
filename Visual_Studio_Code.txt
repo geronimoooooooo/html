@@ -5,6 +5,7 @@ Node.js installieren um npm zu nutzen
 command input box: cmd+shift+p/F1 
 Gesamten Text formatieren: shift+alt+f 
 Selektierten Text formatieren: ctrl+k, ctrl+f 
+Keyboard Shortcuts Reference: ctrl+k, ctrl+r
 
 =======extensons for web dev=======
 CSS Peek
