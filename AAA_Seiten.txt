@@ -50,6 +50,16 @@ https://www.frontendcheatsheets.com/bootstrap
 https://websitesetup.org/bootstrap-cheat-sheet/
 https://www.tutorialspoint.com/bootstrap/index.htm
 
+=======Auflistung aller Klassen zu Bootstrap=======
+https://www.tutorialrepublic.com/twitter-bootstrap-examples.php
+https://hackerthemes.com/bootstrap-cheatsheet/
+https://bootstrap-cheatsheet.themeselection.com/
+https://www.w3schools.com/bootstrap/bootstrap_ref_all_classes.asp
+https://hackr.io/blog/bootstrap-cheat-sheet
+https://getbootstrap.com/docs/5.2/getting-started/introduction/
+https://bootstrapcreative.com/resources/bootstrap-5-cheat-sheet-classes-index/
+https://bootstrapshuffle.com/de/classes
+
 ======AJAX======
 https://gist.githubusercontent.com/geronimoooooooo/a916893a267fbd2b2701/raw/39d85d6b67fc2cb7abce16a5fc8ccebba11692c5/multi.geojson
 
@@ -64,13 +74,5 @@ https://www.javatpoint.com/install-expressjs
 https://www.netguru.com/glossary/node-js
 https://www.w3schools.com/nodejs/default.asp
 
-=======Auflistung aller Klassen zu Bootstrap=======
-https://www.tutorialrepublic.com/twitter-bootstrap-examples.php
-https://hackerthemes.com/bootstrap-cheatsheet/
-https://bootstrap-cheatsheet.themeselection.com/
-https://www.w3schools.com/bootstrap/bootstrap_ref_all_classes.asp
-https://hackr.io/blog/bootstrap-cheat-sheet
-https://getbootstrap.com/docs/5.2/getting-started/introduction/
-https://bootstrapcreative.com/resources/bootstrap-5-cheat-sheet-classes-index/
-https://bootstrapshuffle.com/de/classes
+
 
