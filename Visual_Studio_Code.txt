@@ -2,13 +2,15 @@ https://code.visualstudio.com/docs/setup/setup-overview
 Node.js installieren um npm zu nutzen
 
 =======short cuts=======
-cmd shift p
+command input box: cmd+shift+p/F1 
+Gesamten Text formatieren: shift+alt+f 
+Selektierten Text formatieren: ctrl+k, ctrl+f 
 
 =======extensons for web dev=======
 CSS Peek
 HTML CSS Support
 HTML Preview (deprecated)
-just html preview
+just html preview  ( 'live preview' or 'html preview' to see a list of available HTML preview extensions)
 IntelliSense for CSS class names in HTML
 Bracket Pair Colorizer (deprecated, weil feature in VS Code vorhanden)
 HTML Boilerplate
