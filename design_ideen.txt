@@ -1,2 +1,0 @@
-block, div, struktur: http://eenvplus.sinergis.it/52n-sos-webapp/client
-http://bootsnipp.com/snippets/featured/modal-quiz-with-radio-button
