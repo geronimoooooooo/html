@@ -3,7 +3,7 @@
 ------------------------*/
 
 /*
-Allows you to define different style rules for different media types or different sizes of devices.
+Allows you to define ---different style rules for different media types or different sizes of devices---.
 Media queries can be used to check many things, such as:
     width and height of the viewport --> viewport is the user's visible area of a web page.
     width and height of the device
