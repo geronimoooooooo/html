@@ -29,6 +29,12 @@ https://www.learn-codes.net/javascript/javascript-changing-variable-on-button-cl
  target.innerHTML = "<td>Hello <b>World</b>!</td>";
 $( target ).html( "<td>Hello <b>World</b>!</td>" );
 -----------------------------------------------------------------------
+<body>
+    <div id="greet"></div>
+    <script>
+        document.getElementById("greet").innerHTML = "Hello World!";
+    </script>
+</body>
 -----------------------------------------------------------------------
 -----------------------------------------------------------------------
 -----------------------------------------------------------------------
