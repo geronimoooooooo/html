@@ -23,3 +23,4 @@ just html preview  ( 'live preview' or 'html preview' to see a list of available
 IntelliSense for CSS class names in HTML
 Bracket Pair Colorizer (deprecated, weil feature in VS Code vorhanden)
 HTML Boilerplate
+open in browser v2.0.0 von TechER; Alt+b öffnet file im dafür standard tool (html in browser)
