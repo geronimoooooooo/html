@@ -8,7 +8,6 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta name="description" content="A simple HTML and CSS webpage">
 	
-<script	src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0/dist/js/bootstrap.bundle.min.js"></script>
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
 
 <link rel="stylesheet" href="css/jquery.toast.min.css">
@@ -23,9 +22,9 @@
 
 
  <script src="js/c_js.js"></script>   
- <link rel="stylesheet" type="text/css" href="css/css.css">
- <link rel="stylesheet" href="css/c_css.css">
+ <link rel="stylesheet" type="text/css" href="css/c_css.css">
  <!-- bootstrap.css muss als letztes aufgelistet werden, ansonsten spackt irgendwas rum -->
+	<script	src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0/dist/js/bootstrap.bundle.min.js"></script>
 <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0/dist/css/bootstrap.min.css"rel="stylesheet">
  
  <link rel="icon" href="img/favicon.ico?v=2" type="image/vnd.microsoft.icon">
