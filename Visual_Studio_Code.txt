@@ -19,6 +19,7 @@ Open preview Fenster: ctrl+k v
 CSS Peek
 HTML CSS Support
 HTML Preview (deprecated)
+HTML Preview v0.2.5 George Oliveira , ctrl+k v preview fenster, ctrl+k w open in browser
 just html preview  ( 'live preview' or 'html preview' to see a list of available HTML preview extensions)
 IntelliSense for CSS class names in HTML
 Bracket Pair Colorizer (deprecated, weil feature in VS Code vorhanden)
