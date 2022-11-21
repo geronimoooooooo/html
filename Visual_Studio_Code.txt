@@ -12,6 +12,8 @@ command input box: cmd+shift+p/F1
 Gesamten Text formatieren: shift+alt+f 
 Selektierten Text formatieren: ctrl+k, ctrl+f 
 Keyboard Shortcuts Reference: ctrl+k, ctrl+r
+Save all: ctrl+k s
+Open preview Fenster: ctrl+k v
 
 =======extensons for web dev=======
 CSS Peek
