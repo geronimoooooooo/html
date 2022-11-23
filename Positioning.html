@@ -5,6 +5,11 @@ m-4, mt-4
 .mx-auto == center;; m,p,t,b,s,e,x
 .display-* ;; 
 display:none 
+display: block; dadurch wird bei <a> dann die ganze Zeile anklickbar
+
+display: inline; dadurch werden punkte du unter einander wären, dann neben einander angezeigt
+By applying overflow: hidden;, you simply forbid any overflowing content to be seen.
+
 visibility:hidden;; attribut hidden sagt dem Browser, dass ein Element nicht angezeigt werden soll, aber platz wird dennoch auf webseite eingenommen
 aria-hidden="true" entfernt das Element von den Zugriffs API. Tells screen-reader, dass das Element ignoriert werden soll
 <div .rov .align-items-center alle weiteren Elemente in diesem div werden Vertikal mittig
