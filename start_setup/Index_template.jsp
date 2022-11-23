@@ -21,11 +21,10 @@
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.5.0/font/bootstrap-icons.css">
 
 
- <script src="js/c_js.js"></script>   
- <link rel="stylesheet" type="text/css" href="css/c_css.css">
- <!-- bootstrap.css muss als letztes aufgelistet werden, ansonsten spackt irgendwas rum -->
-	<script	src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0/dist/js/bootstrap.bundle.min.js"></script>
-<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0/dist/css/bootstrap.min.css"rel="stylesheet">
+ 	<script src="js/c_js.js"></script>   
+ 	<link rel="stylesheet" type="text/css" href="css/c_css.css">
+ 	<!-- bootstrap.css muss als letztes aufgelistet werden, ansonsten spackt irgendwas rum -->	
+	<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0/dist/css/bootstrap.min.css"rel="stylesheet">
  
  <link rel="icon" href="img/favicon.ico?v=2" type="image/vnd.microsoft.icon">
  <link rel="icon" href="img/favicon.ico" type="image/vnd.microsoft.icon">
@@ -39,5 +38,6 @@
 		hi
 		<!-- #region tst-->
     <!-- #endregion test-->
+	<script	src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0/dist/js/bootstrap.bundle.min.js"></script>		
 	</body>
 </html>
