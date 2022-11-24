@@ -25,3 +25,4 @@ IntelliSense for CSS class names in HTML
 Bracket Pair Colorizer (deprecated, weil feature in VS Code vorhanden)
 HTML Boilerplate
 open in browser v2.0.0 von TechER; Alt+b öffnet file im dafür standard tool (html in browser)
+jquery snippets v1.0.2 von Abhi Patel. js startet
