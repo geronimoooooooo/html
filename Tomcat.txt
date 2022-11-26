@@ -1,2 +1,6 @@
 Tomcat stoppen, welcher automatisch vom OS gestartet wurde
 in cmd: cd C:\Program Files\Apache Software Foundation\Tomcat 8.5\bin> Tomcat8.exe stop
+
+Deployen von HTML files
++ in C:\tomcat\webapps einfach einen Ordner als Projektname erstellen
++ in C:\tomcat\webapps\projektname dann einfach alle files reinkopieren
