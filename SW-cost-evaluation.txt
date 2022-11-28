@@ -4,3 +4,15 @@ https://www.spheregen.com/cost-of-software-development/
 https://devoxsoftware.com/blog/software-cost-estimation/
 https://relevant.software/blog/guidelines-for-software-development-cost-estimation/
 https://quantox.com/blog/how-to-estimate-the-cost-of-software-development-in-2022/
+
+cost estimation for developing software
+++ scope of work festlegen. Featureumfang. Vorhandene Funktionalität.
+- Start with prototyp, create minimum viable product (MVP), gather customer's feedback
+
+++ divide into sprints und small tasks
+- Einzelne Features einschätzen und dann alles aufsummieren
+
+++ hidden costs
+- QA and testing
+- Kommunikation
+- Maintenance (Wartung, Erweiterungen)
