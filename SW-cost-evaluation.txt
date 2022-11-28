@@ -6,6 +6,9 @@ https://relevant.software/blog/guidelines-for-software-development-cost-estimati
 https://quantox.com/blog/how-to-estimate-the-cost-of-software-development-in-2022/
 
 cost estimation for developing software
+++ discovery phase
+- diverse Dinge am Anfang festlegen
+
 ++ scope of work festlegen. Featureumfang. Vorhandene Funktionalität.
 - Start with prototyp, create minimum viable product (MVP), gather customer's feedback
 
