@@ -1,11 +1,14 @@
+HOW MUCH and HOW LONG?
 
+##########################
 https://procoders.tech/blog/cost-of-software-development/
 https://www.spheregen.com/cost-of-software-development/
 https://devoxsoftware.com/blog/software-cost-estimation/
 https://relevant.software/blog/guidelines-for-software-development-cost-estimation/
 https://quantox.com/blog/how-to-estimate-the-cost-of-software-development-in-2022/
 ##########################
-website development cost
+---website development cost---
+https://www.spheregen.com/cost-of-software-development/
 https://relevant.software/blog/guidelines-for-software-development-cost-estimation/
 https://spdload.com/blog/website-development-cost/
 https://imaginovation.net/blog/website-development-cost-complete-guide/
