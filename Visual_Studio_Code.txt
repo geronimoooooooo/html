@@ -8,6 +8,7 @@ Neues Projekt/Workspace erstellen:
 + "Save Workspace As" im wks ordner
 
 ===GitHub===
+https://code.visualstudio.com/docs/sourcecontrol/github
 git --version
 https://git-scm.com/download/win git downloaden+installen (Umgebungsvariable C:\Program Files\Git\cmd automatisch gesetzt)
 GitHub Pull Requests and Issues extension installieren
