@@ -7,6 +7,12 @@ Neues Projekt/Workspace erstellen:
 + den wks ordner "add folder to workspace" über FILE
 + "Save Workspace As" im wks ordner
 
+===GitHub===
+git --version
+https://git-scm.com/download/win git downloaden+installen (Umgebungsvariable C:\Program Files\Git\cmd automatisch gesetzt)
+GitHub Pull Requests and Issues extension installieren
+>git clone https://github.com/geronimoooooooo/somepro.git in dem WKS im VS Code schreiben, in dem Projekt local abgespeichert wird
+
 =======short cuts=======
 command input box: cmd+shift+p/F1 
 Gesamten Text formatieren: shift+alt+f 
@@ -23,5 +29,6 @@ just html preview  ( 'live preview' or 'html preview' to see a list of available
 IntelliSense for CSS class names in HTML
 Bracket Pair Colorizer (deprecated, weil feature in VS Code vorhanden)
 HTML Boilerplate
+GitHub Pull Requests and Issue
 open in browser v2.0.0 von TechER; Alt+b öffnet file im dafür standard tool (html in browser)
 jquery snippets v1.0.2 von Abhi Patel. js startet
