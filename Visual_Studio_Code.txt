@@ -4,8 +4,8 @@ VS Code starten: in den Ordner gehen und workspace mit "öffnen mit VS Code" sta
 Neues Projekt/Workspace erstellen:
 + wks ordner auf hdd erstellen
 + mit cmd in wks ordner rein: code . ODER VS Code starten 
-+ den wks ordner "add folder to workspace"
-+ Save Workspace As im wks ordner
++ den wks ordner "add folder to workspace" über FILE
++ "Save Workspace As" im wks ordner
 
 =======short cuts=======
 command input box: cmd+shift+p/F1 
