@@ -11,7 +11,8 @@ Neues Projekt/Workspace erstellen:
 git --version
 https://git-scm.com/download/win git downloaden+installen (Umgebungsvariable C:\Program Files\Git\cmd automatisch gesetzt)
 GitHub Pull Requests and Issues extension installieren
->git clone https://github.com/geronimoooooooo/somepro.git in dem WKS im VS Code schreiben, in dem Projekt local abgespeichert wird
+>git clone https://github.com/geronimoooooooo/somePro.git in dem WKS im VS Code schreiben, in dem Projekt local abgespeichert wird
+neue Files müssen in dem Ordner abgespeichert werden, um diese hochladen zu können
 
 =======short cuts=======
 command input box: cmd+shift+p/F1 
