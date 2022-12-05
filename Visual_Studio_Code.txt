@@ -14,6 +14,7 @@ https://git-scm.com/download/win git downloaden+installen (Umgebungsvariable C:\
 GitHub Pull Requests and Issues extension installieren
 >git clone https://github.com/geronimoooooooo/somePro.git in dem WKS im VS Code schreiben, in dem Projekt local abgespeichert wird
 neue Files müssen in dem Ordner abgespeichert werden, um diese hochladen zu können
+Einmalig in den Projektordner/githubprojekt gehen und user.name und user.email setzen: https://git-scm.com/book/en/v2/Getting-Started-First-Time-Git-Setup
 
 =======short cuts=======
 command input box: cmd+shift+p/F1 
