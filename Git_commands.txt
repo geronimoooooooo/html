@@ -1,11 +1,3 @@
-file:///C:/Users/fums/Downloads/SWTM-2088_Atlassian-Git-Cheatsheet.pdf
-
-
-Set-up
-
-
-
-
 ===Set-up===
 >git --version
 >git config user.name <name>
@@ -23,9 +15,16 @@ Set-up
 >git branch <branch> --- Add a <branch> argument to create a new branch with the name <branch>.
 >git checkout -b <branch> --- Create and check out a new branch named <branch>.
 >git checkout <branch> --- Switch to an existing branch.
+>git merge <branch> --- Merge <branch> into the current branch.
 
 ===Updates===
 >git commit -m "<message>" --- Commit the staged snapshot
+
+===Remote Repository===
+>git remote add <name> <url> --- Create a new connection to a remote repo. After adding a remote, you can use <name> as a shortcut for <url> in other commands.
+>git fetch <remote> <branch> --- Fetches a specific <branch>, from the repo. Leave off <branch> to fetch all remote refs.
+>git pull <remote> --- Fetch the specified remote’s copy of current branch and immediately merge it into the local copy.
+>git push <remote> <branch> --- Push the branch to <remote>, along with necessary commits and objects. Creates named branch in the remote repo if it doesn’t exist.
 
 ===Metainformation===
 >git log --- Display the entire commit history using the default format. For customization see additional options.
