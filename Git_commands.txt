@@ -1,3 +1,7 @@
+https://about.gitlab.com/images/press/git-cheat-sheet.pdf
+https://www.ionos.at/digitalguide/websites/web-entwicklung/git-cheat-sheet/
+https://www.ionos.at/digitalguide/websites/web-entwicklung/git-commands/
+
 ===Set-up===
 >git --version
 >git config user.name <name>
