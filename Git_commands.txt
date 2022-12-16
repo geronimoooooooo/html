@@ -23,7 +23,8 @@ https://www.ionos.at/digitalguide/websites/web-entwicklung/git-commands/
 >git checkout feature; git rebase main --- Packt den gesamten feature branch "on the tip of main branch". feature branch wird nun der neue Haupt branch.
 
 ===Updates===
->git commit -m "<message>" --- Commit the staged snapshot
+>git commit -m "<message>" --- Commit the staged snapshot. Man muss dazu noch die file "stagen" mit gid add
+>git commit -a -m "<message>" --- Commit durchgeführt ohne, dass man vorher hat stagen müssen.
 
 ===Remote Repository===
 >git remote add <name> <url> --- Create a new connection to a remote repo. After adding a remote, you can use <name> as a shortcut for <url> in other commands.
