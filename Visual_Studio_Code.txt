@@ -3,12 +3,12 @@ Node.js installieren um npm zu nutzen
 VS Code starten: in den Ordner gehen und workspace mit "öffnen mit VS Code" starten
 
 ===Neues Projekt/Workspace erstellen===
+---> wenn man ein bestehendes Projekt zum ersten Mal auf GitHUB stellen möchte
 + wks ordner auf hdd erstellen
 + mit cmd in wks ordner rein: code . ODER VS Code starten 
 + den wks ordner "add folder to workspace" über FILE
 + "Save Workspace As" AU?ERHALB des wks ordner
-+ index.html erstellen
-+ .gitignore erstellen
++ index.html, .gitignore, README.md erstellen
 
 + auf GitHUB neue repo erstellen <url>
 
@@ -19,7 +19,7 @@ git add README.md
 git commit -m "first commit"
 git branch -M main (im wks ordner:>git init -b main  (neue default branches heißen main und nicht master)
 git remote add origin <url>
-git push -u origin main
+git push -u origin main oder >git push --force -u origin main (falls oben schon ein README.dm ist)
 
 
 ===GitHub===
