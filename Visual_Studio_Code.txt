@@ -22,6 +22,11 @@ git remote add origin <url>
 git push -u origin main oder >git push --force -u origin main (falls oben schon ein README.dm ist)
 
 
+===push an existing repository from the command line===
+git remote add origin <url>
+git branch -M main
+git push -u origin main
+
 ===GitHub===
 https://code.visualstudio.com/docs/sourcecontrol/github
 git --version
