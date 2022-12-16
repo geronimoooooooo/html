@@ -15,7 +15,7 @@ https://www.ionos.at/digitalguide/websites/web-entwicklung/git-commands/
 >git status --- List which files are staged, unstaged, and untracked.
 
 ===Branch===
->git branch --- List all of the branches in your repo. 
+>git branch -a --- List all of the branches in your repo. 
 >git branch <branch> --- Add a <branch> argument to create a new branch with the name <branch>.
 >git checkout -b <branch> --- Create and check out a new branch named <branch>.
 >git checkout <branch> --- Switch to an existing branch.
@@ -28,6 +28,8 @@ https://www.ionos.at/digitalguide/websites/web-entwicklung/git-commands/
 
 ===Remote Repository===
 >git remote add <name> <url> --- Create a new connection to a remote repo. After adding a remote, you can use <name> as a shortcut for <url> in other commands.
+>git remote add origin https://github.com/geronimoooooooo/proj.git
+>git remote remove origin  --- removes the <url> origin assigned to the branch to be pushed to
 >git fetch <remote> <branch> --- Fetches a specific <branch>, from the repo. Leave off <branch> to fetch all remote refs.
 >git pull <remote> --- Fetch the specified remote’s copy of current branch and immediately merge it into the local copy.
 >git push <remote> <branch> --- Push the branch to <remote>, along with necessary commits and objects. Creates named branch in the remote repo if it doesn’t exist.
