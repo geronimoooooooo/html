@@ -1,6 +1,7 @@
 https://code.visualstudio.com/docs/setup/setup-overview
 Node.js installieren um npm zu nutzen
 VS Code starten: in den Ordner gehen und workspace mit "öffnen mit VS Code" starten
+
 ===Neues Projekt/Workspace erstellen===
 + wks ordner auf hdd erstellen
 + mit cmd in wks ordner rein: code . ODER VS Code starten 
