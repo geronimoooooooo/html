@@ -17,7 +17,7 @@ VS Code starten: in den Ordner gehen und workspace mit "öffnen mit VS Code" sta
 >git config --global user.email <email> --- Define the author email to be used for all commits by the current user
 git add README.md
 git commit -m "first commit"
-git branch -M main (im wks ordner:>git init -b main  (neue default branches heißen main und nicht master)
+git branch -M main (im wks ordner:>git init -b main  (neue default branches heißen main und nicht master. Nachschauen wie es heißt bevor unnötig umbenennen)
 git remote add origin <url>
 git push -u origin main oder >git push --force -u origin main (falls oben schon ein README.dm ist)
 
