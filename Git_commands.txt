@@ -15,7 +15,7 @@ https://www.ionos.at/digitalguide/websites/web-entwicklung/git-commands/
 >git status --- List which files are staged, unstaged, and untracked.
 
 ===Branch===
->git branch -a --- List all of the branches in your repo. 
+>git branch -a --- List all of the branches in your repo. Listet online repos aber erst dann auf, sobald 1x gefetcht wurde.
 >git branch <branch> --- Add a <branch> argument to create a new branch with the name <branch>.
 >git checkout -b <branch> --- Create and check out a new branch named <branch>.
 >git checkout <branch> --- Switch to an existing branch.
