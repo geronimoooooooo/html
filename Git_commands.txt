@@ -34,6 +34,7 @@ https://www.ionos.at/digitalguide/websites/web-entwicklung/git-commands/
 >git fetch <remote> <branch> --- Fetches a specific <branch>, from the repo. Leave off <branch> to fetch all remote refs.
 >git pull <remote> --- Fetch the specified remote’s copy of current branch and immediately merge it into the local copy.
 >git push <remote> <branch> --- Push the branch to <remote>, along with necessary commits and objects. Creates named branch in the remote repo if it doesn’t exist.
+>git pull origin master --allow-unrelated-histories --- Wird genommen, wenn 2 unterschiedliche repos, eines lokal, eines online, dann im lokalen vereint werden. Das online repo wird einfach in das lokale im root Ordner reinkopiert. Beschreibung: https://www.educative.io/answers/the-fatal-refusing-to-merge-unrelated-histories-git-error
 
 ===Metainformation===
 >git log --- Display the entire commit history using the default format. For customization see additional options.
