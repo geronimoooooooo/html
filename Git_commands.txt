@@ -29,6 +29,7 @@ https://www.ionos.at/digitalguide/websites/web-entwicklung/git-commands/
 ===Remote Repository===
 >git remote add <name> <url> --- Create a new connection to a remote repo. After adding a remote, you can use <name> as a shortcut for <url> in other commands.
 >git remote add origin https://github.com/geronimoooooooo/proj.git
+>git remote -v --- Listet alle remote repos auf
 >git remote remove origin  --- removes the <url> origin assigned to the branch to be pushed to
 >git fetch <remote> <branch> --- Fetches a specific <branch>, from the repo. Leave off <branch> to fetch all remote refs.
 >git pull <remote> --- Fetch the specified remote’s copy of current branch and immediately merge it into the local copy.
