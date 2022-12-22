@@ -21,6 +21,13 @@ git branch -M main (im wks ordner:>git init -b main  (neue default branches hei√
 git remote add origin <url>
 git push -u origin main oder >git push --force -u origin main (falls oben schon ein README.dm ist)
 
+===In neues Projekt von GitHub pullen===
+>git --version
+>git init
+>git status (check if master or main in online repo)
+>git config --global user.name <name> --- Define the author name to be used for all commits by the current user
+>git config --global user.email <email> --- Define the author email to be used for all commits by the current user
+>git clone https://github.com/geronimoooooooo/proj.git
 
 ===push an existing repository from the command line===
 git remote add origin <url>
