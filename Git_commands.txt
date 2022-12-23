@@ -4,7 +4,7 @@ https://www.ionos.at/digitalguide/websites/web-entwicklung/git-commands/
 
 
 ===.gitignore===
-+ Tutorial mit examples https://www.freecodecamp.org/news/gitignore-file-how-to-ignore-files-and-folders-in-git/#:~:text=gitignore%20file.-,A%20.,that%20specific%20file%20or%20folder.
++ Tutorial mit examples https://www.freecodecamp.org/news/gitignore-file-how-to-ignore-files-and-folders-in-git/
 + big-data/ #ignoriert den Ordner big-data
 
 ===Set-up===
