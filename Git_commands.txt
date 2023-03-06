@@ -14,6 +14,16 @@ https://www.ionos.at/digitalguide/websites/web-entwicklung/git-commands/
 >git config --global user.email <email> --- Define the author email to be used for all commits by the current user
 >git init <directory> --- Create empty Git repo in specified directory. Run with no arguments to initialize the current directory as a git repository.
 >git config --global alias.<alias-name> <git-command> --- Create shortcut for a Git command. E.g. alias.glog “log --graph--oneline” will set ”git glog” equivalent to ”git log --graph --oneline.
+>===gitlab===
+>>in windows cmd: ssh-keygen; key1.txt.pub erzeugen
+>>Inhalt dieser file bei gitlab SSH Keys einfügen
+>>change project to unprotected, da nur owner pushen kann. Rest muss merge requests issuen. 
+https://stackoverflow.com/questions/32246503/fix-gitlab-error-you-are-not-allowed-to-push-code-to-protected-branches-on-thi
+>>git config --global http.sslbackend schannel
+Unable to resolve "unable to get local issuer certificate" using git on Windows with self-signed certificate
+https://stackoverflow.com/questions/23885449/unable-to-resolve-unable-to-get-local-issuer-certificate-using-git-on-windows
+
+
 
 ===Stage===
 >git add <directory> --- Stage all changes in <directory> for the next commit. Replace <directory> with a <file> to change a specific file.
