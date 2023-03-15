@@ -12,3 +12,7 @@ https://github.com/Asabeneh/30-Days-Of-JavaScript/blob/master/readMe.md
 + JavaScript primitive data types: String, Number, Boolean, undefined, Null
 ++ undefined: Eine Var is undefined, wenn ihr gar kein value zugewiesen wird
 ++ null: Eine Var is null, wenn der value leer ist (empty value: let emptyValue = null) 
++ Variables are containers of data. Variables are used to store data in a memory location. 
+When a variable is declared, a memory location is reserved. When a variable is assigned to 
+a value (data), the memory space will be filled with that data. 
+To declare a variable, we use var, let, or const keywords.
