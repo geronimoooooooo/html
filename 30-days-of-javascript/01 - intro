@@ -1,1 +1,14 @@
 https://github.com/Asabeneh/30-Days-Of-JavaScript/blob/master/readMe.md
+
++ >node -v
++ strg+shift+j: open console
++ Die Google V8 Engine übersetzt den Javascript Code in machine code.
++ In der Console (strg+shift+j) von Google JavaScript schreiben
++ //comments /* ... */
++ "" double quotes, '' single quotes, ` backtick
++ Use Visual Studio Code for JavaScript
++ Visual Studio Code extension: Live Server von Ritwick Dey
++ Add JavaScript to a web page as inline, internal, external script
++ JavaScript primitive data types: String, Number, Boolean, undefined, Null
+++ undefined: Eine Var is undefined, wenn ihr gar kein value zugewiesen wird
+++ null: Eine Var is null, wenn der value leer ist (empty value: let emptyValue = null) 
