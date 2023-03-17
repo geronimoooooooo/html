@@ -5,7 +5,7 @@ https://github.com/Asabeneh/30-Days-Of-JavaScript/blob/master/readMe.md
 + Die Google V8 Engine übersetzt den Javascript Code in machine code.
 + In der Console (strg+shift+j) von Google JavaScript schreiben
 + //comments /* ... */
-+ "" double quotes, '' single quotes, ` backtick
++ "" double quotes, '' single quotes, ` backtick für Strings
 + Use Visual Studio Code for JavaScript
 + Visual Studio Code extension: Live Server von Ritwick Dey
 + Add JavaScript to a web page as inline, internal, external script
@@ -16,3 +16,18 @@ https://github.com/Asabeneh/30-Days-Of-JavaScript/blob/master/readMe.md
 When a variable is declared, a memory location is reserved. When a variable is assigned to 
 a value (data), the memory space will be filled with that data. 
 To declare a variable, we use var, let, or const keywords.
+
+###################################################################################
+################################ 02 - Data Types ##################################
+https://github.com/Asabeneh/30-Days-Of-JavaScript/blob/master/02_Day_Data_types/02_day_data_types.md
+
++ Everything in JavaScript is an object
++ immutable types (prmitive data types): sobald einmal der Wert zugewiesen wurde, kann dieser nicht mmehr verändert werden.
+Möchte man den Wert verändern, dann wird ein komplett neuer Wert zugewiesen.
++ nicht primitive datentypen (reference types): hier kann der Wert verändert werden
+++ Arrays
+++ Objects
++ `String literal text ${expression}` String mit backtick
++ Auflistung fast aller Funktionen die auf String angewendet werden können
++ check the type of a var: typeof var
++ Casting: Converting von einem data type in einen anderen
