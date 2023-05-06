@@ -36,6 +36,7 @@ Grafische Auflistung aller HTML/CSS Elemente: https://acchou.github.io/html-css-
 Auflistung JavaScript cooler Funktionen: https://websitesetup.org/javascript-cheat-sheet/
 https://www.w3schools.com/js/default.asp
 https://www.javascripttutorial.net/
+https://github.com/Asabeneh/30-Days-Of-JavaScript/blob/master/02_Day_Data_types/02_day_data_types.md
 
 
 
