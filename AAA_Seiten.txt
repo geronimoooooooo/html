@@ -34,6 +34,10 @@ Grafische Auflistung aller HTML/CSS Elemente: https://acchou.github.io/html-css-
 
 ===JavaScript===
 Auflistung JavaScript cooler Funktionen: https://websitesetup.org/javascript-cheat-sheet/
+https://www.w3schools.com/js/default.asp
+https://www.javascripttutorial.net/
+
+
 
 ======Datepicker======
 https://uxsolutions.github.io/bootstrap-datepicker https://github.com/uxsolutions/bootstrap-datepicker
