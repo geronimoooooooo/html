@@ -1,3 +1,9 @@
+named arrays ... Associative Arrays gibt es in JS nicht. Nur mit index möglich. In JavaScript, objects use named indexes.
+typeof IDeinesArrays liefert object, da arrays object sind. mit Array.isArray(arrayBezeichner) kann man genauer nachschauen
+arrayBezeichner instanceof Array;
+declare arrays using const
+const seit 2015; An array declared with const cannot be reassigned. Man kann aber die Werte in dem bestehenden Array ändern.
+----------------------------------------------
 links:
 * http://www.w3schools.com/js/default.asp
 
