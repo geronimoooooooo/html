@@ -6,6 +6,8 @@ Ports:
 8080 für HTTP
 Falls 8005 schon used by windows (obwohl alle anderen Programme gestoppt) dann auf 8006 in Eclipse umstellen
 
+alle genutzten ports anzeigen: netstat -ano -p tcp
+
 Deployen von HTML files
 + in C:\tomcat\webapps einfach einen Ordner als Projektname erstellen
 + in C:\tomcat\webapps\projektname dann einfach alle files reinkopieren
