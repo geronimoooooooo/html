@@ -2,7 +2,7 @@ Tomcat stoppen, welcher automatisch vom OS gestartet wurde
 in cmd: cd C:\Program Files\Apache Software Foundation\Tomcat 8.5\bin> Tomcat8.exe stop
 
 Ports:
-8005 bei Tomcat Admin
+8005 bei Tomcat Admin port
 8080 für HTTP
 Falls 8005 schon used by windows (obwohl alle anderen Programme gestoppt) dann auf 8006 in Eclipse umstellen
 
