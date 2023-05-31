@@ -7,39 +7,54 @@ col-md-offset-4 bewegt nach rechts
 
 <code> <pre> &lt; &gt;
 
-.disabled .show .hidden .invisible, style="display:none", style="display:block", .fade/show .visually-hidden
+.disabled .show .hidden .invisible, style="display:none", style="display:block", display-*, .fade/show 
+.visually-hidden label, attr: disabled/disabled="disabled"
 
 table: .table .table-hover .table-striped, .table-info, -condensed info
 
-.text-left, -center, -right, -justify, text.lead, text-success
+############### TEXT
+.text-*, .text-left, -center, -right, -justify, text.lead, text-success
 .text-lowercase, -uppercase, -capitalize
 .text-muted, -primary,
+<div class="justify-content-between/center/text-center"
 
+button auf <a> <button> <input> anwendbar
 .btn, -lg, -sm, -primary, -block, .close
 
-.dropdown-toggle, -menu, -menu-right
+
+.dropdown-toggle, -menu, -menu-right, -item, -divider, -header, -dropup
+select, option, .form-select
 
 .panel, -default, -heading, -body, -info, 
 
+############### LISTEN
+.list-inline, list-group-item
+<div class="list-group">
 
 ############################### forms ##############################
-.form-control auf input, textarea, select dann haben sie width 100%
+.form-control, -lg auf input, textarea, select, label (.form-label), checkbox(.form-check), radio(.form-check-input) dann haben sie width 100%
 .form-group .form-group-lg
 .form-horizontal triggers .form-group to behave like row
 .form-inline erlaubt mehrere Elemente auf 1. Zeile
-
+.form-floating
+-> checkbox: <div class="form-check" (damit label+checkbox next2eachother)
 .checkbox-inline
 
 .input-lg, .input-sm
-.input-group, .input-group-addon
+.input-group, .input-group-addon  @ graue Fläche in 1. Zeile
     
 ############################### positioning ##############################
 .pull-left,-right
 .navbar-left
 .center-block
+.fixed-top .sticky-top
+.clearfix
+.w-50 .h-50 für <div>
 
 .mb-3 .ml-auto .mx-2  margin utility classes
+.m-4, mt-4, .mx-auto="center", m,p,t,b,s,e,x
 
+<div .row .align-items-center Alle weiteren Elemente in diesem div werden vertikal mittig
 
 ############################### CSS ##############################
 selector {property:value}
