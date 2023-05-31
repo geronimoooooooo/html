@@ -1,2 +1,3 @@
 .prop() get current value from DOM
 .attr() default value from HTML
+$() returns a jQuery object (array-like wrapper obj)
