@@ -1,12 +1,1 @@
-selector {property:value}
-
-table {border:1px solid #c00}
-table.one {}
-
-* {border-radius: 0 !import;} wird alles eckig
-
-ul em anwenden an em wenn es in ul liegt
-body>p: nur wenn p direktes kind von body is
-p[lang="de"], input[type="text"] Attribut Selektor
-
 
