@@ -3,6 +3,8 @@ onclick = "myFunc()"
 conditional operator
 result = (typeof b) =='string' ? "b is string":"b is not a string";
 
+document.getElementById(id).style.property = new style
+                      ("p2).style.color ="blue"
 document.getElementById("demo").innerHTML = 
 <button onclick="document.getElementByID("myImg").src ="pic.gif">click</button>
 
@@ -20,3 +22,10 @@ try {
 }
   
   
+<p onclick ="this.innerHTML="clicked">click text</p>
+           = changeText(this)
+function changeTExt(id){
+  id.innerHTML="newText";
+}
+
+element.addEventListener("click", myFunction);
