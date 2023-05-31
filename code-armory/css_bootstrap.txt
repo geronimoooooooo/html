@@ -9,6 +9,7 @@ col-md-offset-4 bewegt nach rechts
 
 .disabled .show .hidden .invisible, style="display:none", style="display:block", display-*, .fade/show 
 .visually-hidden label, attr: disabled/disabled="disabled"
+visibility: hidden, attribut hidden = sagt dem Browser, dass ein Element nicht angezeigt werden soll
 
 table: .table .table-hover .table-striped, .table-info, -condensed info
 
@@ -42,6 +43,8 @@ select, option, .form-select
 
 .input-lg, .input-sm
 .input-group, .input-group-addon  @ graue Fläche in 1. Zeile
+
+.col-form-label rückt den Text etwas weiter nach unten als .form-label
     
 ############################### positioning ##############################
 .pull-left,-right
