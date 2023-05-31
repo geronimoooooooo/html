@@ -8,7 +8,7 @@ $(this).hide() hides current element
 .attr() default value from HTML
 $() returns a jQuery object (array-like wrapper obj)
 
-.text() set/returns TEXT content of selected element
+.text() set/returns TEXT content of selected element $("btn1").text("abc") textchange beim btn
 .html() set/returns the content of selected element
 .val() set/returns the value of form fields
 .attr()
