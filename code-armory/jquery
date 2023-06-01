@@ -5,19 +5,21 @@ $(selector).action()
 $("p").hide() hides all p
 $(this).hide() hides current element
 .prop() get current value from DOM
-.attr() default value from HTML
+.attr() default value from HTML $("#submitBtn").attr('disabled', 'disabled'); .submitButton.removeAttr('disabled');
 $() returns a jQuery object (array-like wrapper obj)
 
+-------GET VALUES-------
 .text() set/returns TEXT content of selected element $("btn1").text("abc") textchange beim btn
 .html() set/returns the content of selected element
 .val() set/returns the value of form fields
 .attr()
+.css() $("input").css("background-color", "white");
 
--------ADD ELEMENTS
+-------ADD ELEMENTS-------
 .append() .prepend() .after() .before() 
 .remove() .empty() removes the childs
 
--------CSS Classes
+-------CSS Classes-------
 .addClass()
 .removeClass()
 .toggleClass()
