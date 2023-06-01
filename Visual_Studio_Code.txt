@@ -53,6 +53,7 @@ Save all: ctrl+k s
 Open preview Fenster: ctrl+k v
 
 =======extensons for web dev=======
+TabOut
 Bootstrap 4, Font awesome 4, Font Awesome 5 Free & Pro snippets -- "b4-"
 Bootstrap 5 Quick Snippets -- "bs"
 HTML Class Suggestions
