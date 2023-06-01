@@ -58,7 +58,7 @@ Bootstrap 4, Font awesome 4, Font Awesome 5 Free & Pro snippets -- "b4-"
 Bootstrap 5 Quick Snippets -- "bs"
 HTML Class Suggestions
 CSS Peek
-HTML CSS Support
+HTML CSS Support (zeigt bootstrap classes mit autocomplete an)
 HTML Preview v0.2.5 George Oliveira , ctrl+k v preview fenster, ctrl+k w open in browser
 just html preview  ( 'live preview' or 'html preview' to see a list of available HTML preview extensions)
 IntelliSense for CSS class names in HTML
