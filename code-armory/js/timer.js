@@ -19,7 +19,7 @@ function checkTime(i) {
   
 <div class=container-fluid">
 	<div class="row float-end">
-		<p id="time" class="me-3"></p>
+		<div id="time" class="me-3"></div>
 	</div>
 </div>
 ################################################
