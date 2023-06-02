@@ -70,6 +70,11 @@ horizontally: d-flex justify-content-start justify-content-center justify-conten
 vertically: align-items-center -start -end darüber muss .d-flex sein
 
 Position buttons: https://smartdevpreneur.com/the-ultimate-guide-to-aligning-bootstrap-buttons/
+<div class="container my-3 bg-light">
+  <div class="col-md-12 text-end">
+      <button type="button" class="btn btn-primary">Submit</button>            
+  </div>
+</div>
 
 um nur Text zu alignen:
 .container .text-start .text-center .text-end
