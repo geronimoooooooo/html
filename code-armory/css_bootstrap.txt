@@ -47,7 +47,8 @@ select, option, .form-select
 .col-form-label rückt den Text etwas weiter nach unten als .form-label
     
 ############################### positioning ##############################
-.pull-left,-right
+.pull-left,-right mit sind deprecated
+.float-start .float-end left-align und right-align elements. .clearfix einen div drüber anwenden
 .navbar-left
 .center-block
 .fixed-top .sticky-top
@@ -58,6 +59,20 @@ select, option, .form-select
 .m-4, mt-4, .mx-auto="center", m,p,t,b,s,e,x
 
 <div .row .align-items-center Alle weiteren Elemente in diesem div werden vertikal mittig
+mit .mx-auto kann man horizontal einen fixed block centern
+<div class="mx-auto" style="width: 200px;">
+  Centered element
+</div>
+
+https://smartdevpreneur.com/bootstrap-align-right-left-and-center-the-complete-tutorial/
+.justify-content-between MIT .d-flex
+d-flex justify-content-start justify-content-center justify-content-end justify-content-around
+
+um nur Text zu alignen:
+.container .text-start .text-center .text-end
+<div className="container text-start">
+  Aligned Text
+</div>
 
 ############################### CSS ##############################
 selector {property:value}
