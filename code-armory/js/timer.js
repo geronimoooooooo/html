@@ -1,3 +1,6 @@
+####################################################################
+https://www.w3schools.com/js/tryit.asp?filename=tryjs_timing_clock
+
 <body onload="startTime()">
 <script type="text/javascript">
 function startTime() {
