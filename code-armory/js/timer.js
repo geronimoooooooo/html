@@ -16,7 +16,9 @@ function checkTime(i) {
 	  return i;
 	}
 </script>
-  
+<div class="container d-flex justify-content-end">
+	<div id="time"></div>
+</div>
 <div class=container-fluid">
 	<div class="row float-end">
 		<div id="time" class="me-3"></div>
