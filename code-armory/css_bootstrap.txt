@@ -66,7 +66,10 @@ mit .mx-auto kann man horizontal einen fixed block centern
 
 https://smartdevpreneur.com/bootstrap-align-right-left-and-center-the-complete-tutorial/
 .justify-content-between MIT .d-flex
-d-flex justify-content-start justify-content-center justify-content-end justify-content-around
+horizontally: d-flex justify-content-start justify-content-center justify-content-end justify-content-around
+vertically: align-items-center -start -end darüber muss .d-flex sein
+
+Position buttons: https://smartdevpreneur.com/the-ultimate-guide-to-aligning-bootstrap-buttons/
 
 um nur Text zu alignen:
 .container .text-start .text-center .text-end
