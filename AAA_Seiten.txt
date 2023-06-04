@@ -52,7 +52,6 @@ https://formden.com/blog/date-picker
 https://getdatepicker.com/
 
 ======Bootstrap======
-https://angrytools.com/bootstrap/editor/  cpy&rdy2go examples
 https://getbootstrap.com/
 http://www.w3resource.com/twitter-bootstrap/examples.php
 https://www.tutorialrepublic.com/twitter-bootstrap-examples.php
@@ -63,6 +62,7 @@ https://websitesetup.org/bootstrap-cheat-sheet/
 https://www.tutorialspoint.com/bootstrap/index.htm
 
 =======Auflistung aller Klassen zu Bootstrap=======
+https://angrytools.com/bootstrap/editor/  cpy&rdy2go examples
 https://www.tutorialrepublic.com/twitter-bootstrap-examples.php
 https://hackerthemes.com/bootstrap-cheatsheet/
 https://bootstrap-cheatsheet.themeselection.com/
