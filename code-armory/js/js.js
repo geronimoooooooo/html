@@ -3,6 +3,7 @@ onclick = "myFunc()"
 conditional operator
 result = (typeof b) =='string' ? "b is string":"b is not a string";
 
+const buttons = document.querySelectorAll('.btn');
 document.getElementById(id).style.property = new style
                       ("p2).style.color ="blue"
 document.getElementById("demo").innerHTML = 
