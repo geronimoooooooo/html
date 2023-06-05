@@ -11,3 +11,5 @@ alle genutzten ports anzeigen: netstat -ano -p tcp
 Deployen von HTML files
 + in C:\tomcat\webapps einfach einen Ordner als Projektname erstellen
 + in C:\tomcat\webapps\projektname dann einfach alle files reinkopieren
+
+http://localhost/manager/html
