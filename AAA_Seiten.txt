@@ -61,9 +61,12 @@ https://www.frontendcheatsheets.com/bootstrap
 https://websitesetup.org/bootstrap-cheat-sheet/
 https://www.tutorialspoint.com/bootstrap/index.htm
 
-=======Auflistung aller Klassen zu Bootstrap=======
+=======Bootstrap EXAMPLES=======
 https://angrytools.com/bootstrap/editor/  cpy&rdy2go examples
+https://www.w3schools.com/howto/howto_css_labels.asp
 https://www.tutorialrepublic.com/twitter-bootstrap-examples.php
+
+=======Auflistung aller Klassen zu Bootstrap=======
 https://hackerthemes.com/bootstrap-cheatsheet/
 https://bootstrap-cheatsheet.themeselection.com/
 https://www.w3schools.com/bootstrap/bootstrap_ref_all_classes.asp
