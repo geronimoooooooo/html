@@ -38,11 +38,22 @@ CSS cheat sheet mit Examples: https://github.com/Danielhurst93/CSS-Cheat-Sheet/b
 
 Grafische Auflistung aller HTML/CSS Elemente: https://acchou.github.io/html-css-cheat-sheet/html-css-cheat-sheet.html#css-pseudo-nonexistent
 
-===JavaScript===
+############## JavaScript ##############
 Auflistung JavaScript cooler Funktionen: https://websitesetup.org/javascript-cheat-sheet/
 https://www.w3schools.com/js/default.asp
 https://www.javascripttutorial.net/
 https://github.com/Asabeneh/30-Days-Of-JavaScript/blob/master/02_Day_Data_types/02_day_data_types.md
+
+Cheatsheet JavaScript:
+http://cheatsheets.shecodes.io/javascript
+https://www.interviewbit.com/javascript-cheat-sheet/#js-dates
+https://htmlcheatsheet.com/js/
+https://quickref.me/javascript.html
+https://www.codecademy.com/learn/introduction-to-javascript/modules/learn-javascript-introduction/cheatsheet
+https://github.com/mbeaudru/modern-js-cheatsheet
+https://dev.to/devsmitra/28-javascript-array-hacks-a-cheat-sheet-for-developer-5769
+https://dev.to/j471n/countdown-loading-with-js-g8j
+https://zerotomastery.io/cheatsheets/javascript-cheatsheet-the-advanced-concepts/
 
 
 
