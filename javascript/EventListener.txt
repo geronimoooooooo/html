@@ -1,0 +1,2 @@
+Use Event Listeners
+https://blog.hubspot.com/website/call-javascript-function-html
