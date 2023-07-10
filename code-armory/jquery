@@ -53,12 +53,23 @@ if($("#div3").length){
 }
 
 ################### Events ################### 
+$('#btn1').click(function(even){ .bind("click", function(event){  .on
+
 $("#topRight").click(function() {
   console.log("Top Right clicked");
   $("#topRight").off("click"); //tear down eventListener
 })
 
 $("#topRight").on("click",func1); //in jQuery
+$("#sectionFirst2").on("click","p", function(event){
+  console.log($(this).text());   
+})
+$("#sectionFirst").on("click","p",func2);
+
 var func1 = function(){ //außerhalb jQuery
   console.log("func1");
+};
+var func2 = function(){
+  console.log("func2");
+  console.log($(this).text());
 };
