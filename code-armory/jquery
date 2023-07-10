@@ -28,6 +28,12 @@ var x = headings.get(0); returniert nicht jQuery Obj, sondern DOMElement selbst
 .append() .appendTo() .prepend() .after() .before() .clone()
 .remove() .empty() removes the childs
 
+$(".hello").apendTo(".goodbye"); //moved it
+$(".hello").clone().appendTo(".goodbye");
+kopierte objekte + arrays will be shared
+
+$("#selectorDestination").html($("#selectorSource").html());
+
 ################### CSS Classes ###################
 .addClass()   $(this).addClass("bigup");
 .removeClass()
