@@ -20,12 +20,16 @@ let uno = $('#uno');
 let unoNumber = Number(uno.text());
 let unoString = String(uno.text());
 
+var headings = $("h1);//jquery object var headingsFirst = headings.eq(0); 
+var x = headings.get(0); returniert nicht jQuery Obj, sondern DOMElement selbst
+
+
 ################### ADD ELEMENTS ###################
 .append() .appendTo() .prepend() .after() .before() .clone()
 .remove() .empty() removes the childs
 
--------CSS Classes-------
-.addClass()
+################### CSS Classes ###################
+.addClass()   $(this).addClass("bigup");
 .removeClass()
 .toggleClass()
 .css() $("p").css("background-color","yellow");
@@ -64,7 +68,8 @@ $("#topRight").on("click",func1); //in jQuery
 $("#sectionFirst2").on("click","p", function(event){
   console.log($(this).text());   
 })
-$("#sectionFirst").on("click","p",func2);
+
+$("#sectionFirst").on("mouseenter mouseleave","p",func1).on("click","p",func2);
 
 var func1 = function(){ //außerhalb jQuery
   console.log("func1");
@@ -73,3 +78,7 @@ var func2 = function(){
   console.log("func2");
   console.log($(this).text());
 };
+
+################### THIS ###################
+$(this).hide("slow");
+$(this).addClass("bigup");
