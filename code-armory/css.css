@@ -1,1 +1,15 @@
+#uno {
+    background-color: green;
+}
 
+.backgroundColorPurple{
+    background-color: purple;
+}
+
+#sectionFirst p {
+    background-color: yellow;
+}
+
+p {
+    background-color: aqua;
+}
