@@ -9,11 +9,16 @@ $(this).hide() hides current element
 $() returns a jQuery object (array-like wrapper obj)
 
 -------GET VALUES-------
-.text() set/returns TEXT content of selected element $("btn1").text("abc") textchange beim btn
+uno.text() set/returns TEXT content of selected element $("btn1").text("abc") textchange beim btn
 .html() set/returns the content of selected element
 .val() set/returns the value of form fields
 .attr()
 .css() $("input").css("background-color", "white");
+
+let phrase = `some expr ${str}`
+let uno = $('#uno');
+let unoNumber = Number(uno.text());
+let unoString = String(uno.text());
 
 -------ADD ELEMENTS-------
 .append() .prepend() .after() .before() 
@@ -24,4 +29,19 @@ $() returns a jQuery object (array-like wrapper obj)
 .removeClass()
 .toggleClass()
 .css() $("p").css("background-color","yellow");
+
+
+################### Arrays ################### 
+let arr = [0,1,2];
+  for (let e of arr){
+    console.log(e);
+  }
+arr.pop() 0,1
+arr.push(3) 0,1,2,3
+arr.shift() 1,2,3
+arr.unshift(0) 0,1,2,3
+
+.splice() .slice(start,end)
+.find let user = users.find(e => e.id==1) ;  let target = arr.find(e=>e<0);
+.filter .forEach(func) .map(func) let targets = arr.filter(e=>e<0); targets.forEach(printer); function printer(val){  console.log(val);}
 
