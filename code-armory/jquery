@@ -45,3 +45,11 @@ arr.unshift(0) 0,1,2,3
 .find let user = users.find(e => e.id==1) ;  let target = arr.find(e=>e<0);
 .filter .forEach(func) .map(func) let targets = arr.filter(e=>e<0); targets.forEach(printer); function printer(val){  console.log(val);}
 
+################### if ################### 
+if($("#div3").length){
+  console.log("geschafft");
+}else{
+  console.log("false");
+}
+
+
