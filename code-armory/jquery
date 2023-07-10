@@ -52,4 +52,13 @@ if($("#div3").length){
   console.log("false");
 }
 
+################### Events ################### 
+$("#topRight").click(function() {
+  console.log("Top Right clicked");
+  $("#topRight").off("click"); //tear down eventListener
+})
 
+$("#topRight").on("click",func1); //in jQuery
+var func1 = function(){ //außerhalb jQuery
+  console.log("func1");
+};
