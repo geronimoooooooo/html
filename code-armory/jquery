@@ -34,6 +34,7 @@ var headings = $("h1);//jquery object var headingsFirst = headings.eq(0);
 var x = headings.get(0); returniert nicht jQuery Obj, sondern DOMElement selbst
 
 $("div:gt(2)"); alle bis auf die ersten 3 divs
+$("p").slideToggle();
 
 
 ################### ADD ELEMENTS ###################
@@ -62,10 +63,11 @@ arr.pop() 0,1
 arr.push(3) 0,1,2,3
 arr.shift() 1,2,3
 arr.unshift(0) 0,1,2,3
-
+arr.length = 0;//clears array
 .splice() .slice(start,end)
 .find let user = users.find(e => e.id==1) ;  let target = arr.find(e=>e<0);
 .filter .forEach(func) .map(func) let targets = arr.filter(e=>e<0); targets.forEach(printer); function printer(val){  console.log(val);}
+
 
 ################### if ################### 
 if($("#div3").length){
@@ -101,6 +103,10 @@ var func2 = function(){
 ################### THIS ###################
 $(this).hide("slow");
 $(this).addClass("bigup");
+$("button").on("click", func3);
+function func3(){
+  $(this).hide();
+}
 
 ################### FORMS ###################
 :visible :hidden :checked :selected
