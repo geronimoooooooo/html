@@ -1,3 +1,12 @@
+################### GET VALUES ###################
+################### ADD ELEMENTS ###################
+################### CSS Classes ###################
+################### Arrays ################### 
+################### if ################### 
+################### Events ################### 
+################### THIS ###################
+################### FORMS ###################
+
 $(function(){
 });
 
@@ -13,6 +22,7 @@ uno.text() set/returns TEXT content of selected element $("btn1").text("abc") te
 .html() set/returns the content of selected element
 .val() set/returns the value of form fields
 .attr()
+.prop() check a box: $("#box").prop("checked", true);
 .css() $("input").css("background-color", "white");
 
 let phrase = `some expr ${str}`
@@ -22,6 +32,8 @@ let unoString = String(uno.text());
 
 var headings = $("h1);//jquery object var headingsFirst = headings.eq(0); 
 var x = headings.get(0); returniert nicht jQuery Obj, sondern DOMElement selbst
+
+$("div:gt(2)"); alle bis auf die ersten 3 divs
 
 
 ################### ADD ELEMENTS ###################
@@ -88,3 +100,9 @@ var func2 = function(){
 ################### THIS ###################
 $(this).hide("slow");
 $(this).addClass("bigup");
+
+################### FORMS ###################
+:visible :hidden :checked :selected
+
+var isVisible = $("#myDiv").is(":visible");
+check a box: $("#box").prop("checked", true);
