@@ -15,7 +15,7 @@ $("p").hide() hides all p
 $(this).hide() hides current element
 .prop() get current value from DOM
 .attr() default value from HTML $("#submitBtn").attr('disabled', 'disabled'); .submitButton.removeAttr('disabled');
-$() returns a jQuery object (array-like wrapper obj)
+$() returns a jQuery object (array-like wrapper obj), returns selection as this
 
 ################### GET VALUES ###################
 uno.text() set/returns TEXT content of selected element $("btn1").text("abc") textchange beim btn
