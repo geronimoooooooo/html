@@ -30,3 +30,5 @@ function changeTExt(id){
 }
 
 element.addEventListener("click", myFunction);
+
+document.getElementById("myText").disabled = true;
