@@ -87,6 +87,7 @@ $("#sectionFirst2").on("click","p", function(event){
   console.log($(this).text());   
 })
 
+//attach delegated eventhandler
 $("#sectionFirst").on("mouseenter mouseleave","p",func1).on("click","p",func2);
 
 var func1 = function(){ //außerhalb jQuery
