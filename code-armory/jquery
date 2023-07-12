@@ -108,6 +108,19 @@ var func2 = function(){
   console.log($(this).text());
 };
 
+$("p").hover(function(){
+        $(this).addClass("highlight");
+    }, function(){
+        $(this).removeClass("highlight");
+    });
+
+ $("input").focus(function(){
+    $(this).css("background-color", "yellow");
+  });
+  $("input").blur(function(){
+    $(this).css("background-color", "green");
+  });
+
 ################### THIS ###################
 $(this).hide("slow");
 $(this).addClass("bigup");
