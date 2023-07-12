@@ -36,6 +36,14 @@ var x = headings.get(0); returniert nicht jQuery Obj, sondern DOMElement selbst
 $("div:gt(2)"); alle bis auf die ersten 3 divs
 $("p").slideToggle();
 
+<input name="myInput" />
+$("[name='myInput']").value("Test"); // sets input value to "Test"
+$("input[name='myElement']").remove(); // removes the input field not the button
+
+$( document ).on("click", ".myCustomBtnClassInATable", function (e) { 
+    //find out more information about the event variable in the console
+    console.log(e);
+});
 
 ################### ADD ELEMENTS ###################
 .append() .appendTo() .prepend() .after() .before() .clone()
