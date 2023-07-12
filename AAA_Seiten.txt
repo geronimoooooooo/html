@@ -25,9 +25,15 @@ Selectors: http://www.tutorialrepublic.com/jquery-reference/jquery-selectors.php
 https://www.javatpoint.com/jquery-dblclick-method
 
 CHEATSHEET:
+https://hackr.io/blog/jquery-cheat-sheet-part-2
+https://gist.github.com/davidmigloz/1772732d7d0d063884c3
+https://quickref.me/jquery.html
 https://www.freecodecamp.org/news/the-best-jquery-examples/
 https://htmlcheatsheet.com/jquery/
 https://oscarotero.com/jquery/
+https://www.geeksforgeeks.org/jquery-cheat-sheet-a-basic-guide-to-jquery/
+
+jQuery -> vanilla js: https://tobiasahlin.com/blog/move-from-jquery-to-vanilla-javascript/#working-with-events
 
 https://docs.w3cub.com/html/element/details
 https://developer.mozilla.org/en-US/docs/Web/CSS/:focus-within
