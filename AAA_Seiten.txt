@@ -18,10 +18,16 @@ https://jsfiddle.net/
 http://www.bootply.com/UwQzdPxBNI#
 https://www.codeply.com/
 
-=====jQuery=====
+===== jQuery =====
 http://www.w3schools.com/jquery/jquery_examples.asp
 http://www.tutorialrepublic.com/jquery-examples.php
 Selectors: http://www.tutorialrepublic.com/jquery-reference/jquery-selectors.php
+https://www.javatpoint.com/jquery-dblclick-method
+
+CHEATSHEET:
+https://www.freecodecamp.org/news/the-best-jquery-examples/
+https://htmlcheatsheet.com/jquery/
+https://oscarotero.com/jquery/
 
 https://docs.w3cub.com/html/element/details
 https://developer.mozilla.org/en-US/docs/Web/CSS/:focus-within
