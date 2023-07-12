@@ -45,6 +45,15 @@ $( document ).on("click", ".myCustomBtnClassInATable", function (e) {
     console.log(e);
 });
 
+<select id="select1">
+    <option>London</option>
+    <option>Paris</option>
+    <option>New York</option>
+</select>
+$("#select1").change(function(){
+    var selectedOption = $(this).find(":selected").val();
+});
+
 ################### ADD ELEMENTS ###################
 .append() .appendTo() .prepend() .after() .before() .clone()
 .remove() .empty() removes the childs
