@@ -54,6 +54,10 @@ $("#select1").change(function(){
     var selectedOption = $(this).find(":selected").val();
 });
 
+$("[href]")			//all elements with an href attribute
+$("a[target='_blank']")		//all <a> elements with a target attribute value equal to "_blank"
+$("a[target!='_blank']")	//all <a> elements with a target attribute value NOT equal to "_blank"
+
 ################### ADD ELEMENTS ###################
 .append() .appendTo() .prepend() .after() .before() .clone()
 .remove() .empty() removes the childs
@@ -129,7 +133,13 @@ $("p").hover(function(){
   $("input").blur(function(){
     $(this).css("background-color", "green");
   });
+$(document).on('change', 'input', function);
 
+blur		focus		load		resize		scroll
+unload		beforeun	load		click		dblclick
+mousedown	mouseup		mousemove	mouseover	mouseout
+mouseenter	mouseleave	change		select		submit
+keydown		keypress	keyup
 ################### THIS ###################
 $(this).hide("slow");
 $(this).addClass("bigup");
