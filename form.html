@@ -1,3 +1,21 @@
+#########################################
+https://stackoverflow.com/questions/901712/how-do-i-check-whether-a-checkbox-is-checked-in-jquery
+$("#b2").click(function(){
+    $("#w3s").attr("href", "https://www.w3schools.com/jquery/");
+  	$('[type="checkbox"]').prop("checked", false);  
+  });
+  $('[type="checkbox"]').prop("checked", true);  
+  $('[type="checkbox"]').attr("checked", "checked");
+  
+  $("#b1").on("click", function(){
+  	$("p").text("changed all");
+
+//$('[type="checkbox"]').prop("checked", true);
+	if($('[type="checkbox"]').is(":checked")){
+    	$("p").text("all is checked");
+    }
+  });
+#########################################
 
 Jeder textuelle Input <input> textarea label checkbox radio sollte .form-control .form-check(damit label + checkbox next2eachother) nutzen
 <div class="form-check, form-floating">
