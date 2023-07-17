@@ -150,6 +150,7 @@ function func3(){
 
 ################### FORMS ###################
 :visible :hidden :checked :selected
+ $(':checkbox').prop('checked',true);
 
 var isVisible = $("#myDiv").is(":visible");
 check a box: $("#box").prop("checked", true);
