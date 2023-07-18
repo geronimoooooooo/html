@@ -150,7 +150,7 @@ $("#ul1").append("<li>"+lenUl+"</li>");
 
 $("#h11").hover(function(){  
   alert(("h11"));
-}, function(){
+}, function(){ //callback after first part done
   $(this).css("background-color", "red");
 });
 
