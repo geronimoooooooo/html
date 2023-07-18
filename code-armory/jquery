@@ -140,6 +140,12 @@ unload		beforeun	load		click		dblclick
 mousedown	mouseup		mousemove	mouseover	mouseout
 mouseenter	mouseleave	change		select		submit
 keydown		keypress	keyup
+
+$("#ul1").on("click", "li", function (event) {
+let lenUl = $('#ul1 li').length+1;
+$("#ul1").append("<li>"+lenUl+"</li>");
+})
+
 ################### THIS ###################
 $(this).hide("slow");
 $(this).addClass("bigup");
