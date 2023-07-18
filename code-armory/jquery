@@ -148,6 +148,12 @@ let lenUl = $('#ul1 li').length+1;
 $("#ul1").append("<li>"+lenUl+"</li>");
 })
 
+$("#h11").hover(function(){  
+  alert(("h11"));
+}, function(){
+  $(this).css("background-color", "red");
+});
+
 ################### THIS ###################
 $(this).hide("slow");
 $(this).addClass("bigup");
