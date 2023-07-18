@@ -12,7 +12,7 @@ $(function(){
 
 $(selector).action()
 $("p").hide() hides all p
-$(this).hide() hides current element
+$(this).hide(), $(this).css("display", "none") hides current element
 .prop() get current value from DOM
 .attr() default value from HTML $("#submitBtn").attr('disabled', 'disabled'); .submitButton.removeAttr('disabled');
 $() returns a jQuery object (array-like wrapper obj), returns selection as this
