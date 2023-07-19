@@ -162,6 +162,11 @@ function func3(){
   $(this).hide();
 }
 
+let tar = $(this); //$(event.target);
+// $(this).hide();
+// $(event.target).hide();
+tar.hide();
+
 ################### FORMS ###################
 :visible :hidden :checked :selected
  $(':checkbox').prop('checked',true);
