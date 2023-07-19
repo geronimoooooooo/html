@@ -167,6 +167,11 @@ let tar = $(this); //$(event.target);
 // $(event.target).hide();
 tar.hide();
 
+Get the element where the event occurred: const element = event.target;
+Get the name of the element where the event occurred: let text = event.target.tagName;
+Get the element that triggered the event: const element = event.currentTarget;
+Get the name of the element that triggered the event: let text = event.currentTarget.tagName;
+
 ################### FORMS ###################
 :visible :hidden :checked :selected
  $(':checkbox').prop('checked',true);
