@@ -4,3 +4,5 @@
 
 
 ################## jQuery ##################
+var isVisible = $( "#myDiv" ).is( ":visible" );
+var isHidden = $( "#myDiv" ).is( ":hidden" );
