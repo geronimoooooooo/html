@@ -182,3 +182,5 @@ $( "#x" ).prop( "checked", false );
 
 var isVisible = $("#myDiv").is(":visible");
 check a box: $("#box").prop("checked", true);
+
+How do I get the text value of a selected option? https://learn.jquery.com/using-jquery-core/faq/how-do-i-get-the-text-value-of-a-selected-option/
