@@ -175,6 +175,8 @@ Get the name of the element that triggered the event: let text = event.currentTa
 ################### FORMS ###################
 :visible :hidden :checked :selected
  $(':checkbox').prop('checked',true);
+$( "#x" ).prop( "disabled", true ); 
+$( "#x" ).prop( "disabled", false );
 
 var isVisible = $("#myDiv").is(":visible");
 check a box: $("#box").prop("checked", true);
