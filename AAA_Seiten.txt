@@ -18,6 +18,9 @@ https://jsfiddle.net/
 http://www.bootply.com/UwQzdPxBNI#
 https://www.codeply.com/
 
+====== HTML ======
+https://developer.mozilla.org/en-US/docs/Web/HTML
+
 ===== jQuery =====
 http://www.w3schools.com/jquery/jquery_examples.asp
 http://www.tutorialrepublic.com/jquery-examples.php
@@ -54,6 +57,7 @@ Grafische Auflistung aller HTML/CSS Elemente: https://acchou.github.io/html-css-
 Auflistung JavaScript cooler Funktionen: https://websitesetup.org/javascript-cheat-sheet/
 https://www.w3schools.com/js/default.asp
 https://www.javascripttutorial.net/
+https://developer.mozilla.org/en-US/docs/Web/JavaScript
 https://github.com/Asabeneh/30-Days-Of-JavaScript/blob/master/02_Day_Data_types/02_day_data_types.md
 
 Cheatsheet JavaScript:
