@@ -19,6 +19,7 @@ http://www.bootply.com/UwQzdPxBNI#
 https://www.codeply.com/
 
 ====== HTML ======
+https://www.tutorialrepublic.com/html-tutorial/
 https://developer.mozilla.org/en-US/docs/Web/HTML
 
 ===== jQuery =====
