@@ -4,14 +4,11 @@
 
 data-toggle, form-floating
 
-
-
-
-container, row, 
+container, container-fluid,  row, 
 col-sm-4
+d-grid
 
 bootstrap.min.cs und bootstrap.bundle.min.js von w3c 
-
 
 String par = request.getParameter("sel");
 
@@ -22,22 +19,26 @@ select, option, form-select
 <checkbox> .form-checkbox, <div class="form-check"> damit label und checkbox next2eachother
 <radio> .form-check-input
 
+========= text ==========
+ <h1 class="display-1">Display 1</h1>
 
 input-group @ graue Fläche in 1 Zeile
 
 
-spacing: m-4, mt-4
+spacing: m-4, mt-4, pt-5
 
 list-inline, list-group-item, div.list-group
 
 <dl>dt,dd
-============Visibility============  
+ 
+============ Visibility ============  
 data-autohid="false", label.visually-hidden
 attr: disabled, disabled="disabled"
 area-hidden="true" entfernt das Element von dem Zugriff der API. Tells screen-readers dass das Element ignoriert werden soll
 display:none, visibility:hidden
 attr hidden: sagt dem Browser, dass ein Element nicht angezeigt werden soll  
-============Positionierung============
+ 
+============ Positionierung ============
 div.d-flex, .justify-content-between
 .text-*, .display-*
 div.fixed-top .clearfix  .w-50, .h-50 für div
@@ -45,8 +46,7 @@ div.fixed-top .clearfix  .w-50, .h-50 für div
 div.row.align-items-center alle weiteren Elemente in diesem div werden vertikal mimttig  
 .col-form-label rückt den Text etwas weiter nach unten als .form-label
 
- 
-============Button============
+============ Button ============
 .btn-close, .close &times;X
 
 div.toast,toast-container
