@@ -127,5 +127,8 @@ https://www.netguru.com/glossary/node-js
 https://www.w3schools.com/nodejs/default.asp
 
 ################## React ##################
-
+https://www.w3schools.com/REACT/default.asp
+https://www.tutorialspoint.com/reactjs/index.htm
 React-Bootstrap: https://react-bootstrap.netlify.app/docs/forms/form-control
+React Tutorial: A Comprehensive Guide for Beginners https://ibaslogic.com/react-tutorial-for-beginners/
+https://reactjs.de/artikel/react-tutorial-deutsch/
