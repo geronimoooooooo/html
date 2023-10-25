@@ -12,7 +12,10 @@ https://stackoverflow.com/questions/14049526/javascript-how-to-delete-items-from
 JavaScript Array of Objects Tutorial – How to Create, Update, and Loop Through Objects Using JS Array Methods
 https://www.freecodecamp.org/news/javascript-array-of-objects-tutorial-how-to-create-update-and-loop-through-objects-using-js-array-methods/
 #########################################################################################
+JavaScript Basics: How to Create and Use a Dictionary
+https://www.makeuseof.com/javascript-dictionaries-create-use/#:~:text=There%20is%20no%20%22dictionary%22%20keyword,let%20dictionary%20%3D%20new%20Object()%3B
 #########################################################################################
+https://pietschsoft.com/post/2015/09/05/javascript-basics-how-to-create-a-dictionary-with-keyvalue-pairs
 #########################################################################################
 #########################################################################################
 #########################################################################################
