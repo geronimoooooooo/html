@@ -9,6 +9,8 @@ How can I remove an array element by index,using javaScript?  https://stackoverf
 How to Remove an Element from a JavaScript Array – Removing a Specific Item in JS https://www.freecodecamp.org/news/how-to-remove-an-element-from-a-javascript-array-removing-a-specific-item-in-js/
 https://stackoverflow.com/questions/14049526/javascript-how-to-delete-items-from-an-array-at-given-indices
 #########################################################################################
+JavaScript Array of Objects Tutorial – How to Create, Update, and Loop Through Objects Using JS Array Methods
+https://www.freecodecamp.org/news/javascript-array-of-objects-tutorial-how-to-create-update-and-loop-through-objects-using-js-array-methods/
 #########################################################################################
 #########################################################################################
 #########################################################################################
