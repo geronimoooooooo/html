@@ -33,7 +33,9 @@ Möchte man den Wert verändern, dann wird ein komplett neuer Wert zugewiesen.
 ++ Objects
 ++ nicht vergleichen, da Referenz und nicht Wert/Inhalt verglichen wird
 + `String literal text ${expression}` String mit backtick
-+ Auflistung fast aller Funktionen die auf String angewendet werden können
++ Wenn String zu lang dann mit  backslash  "str... \ den Zeilenumbruch" einleiten
++ template String: `String literal text ${expression}`
++ Auflistung fast aller Funktionen die auf String, Mathe angewendet werden können
 + check the type of a var: typeof var
 + Casting: Converting von einem data type in einen anderen
 
