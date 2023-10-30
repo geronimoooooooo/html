@@ -31,3 +31,13 @@ Möchte man den Wert verändern, dann wird ein komplett neuer Wert zugewiesen.
 + Auflistung fast aller Funktionen die auf String angewendet werden können
 + check the type of a var: typeof var
 + Casting: Converting von einem data type in einen anderen
+
+#####################################################################################
+################################ 04 - Conditionals ##################################
+
+if(){}
+else if(){}
+else(){
+
+termanry operator
+isBool ? doTrue:doFalse
