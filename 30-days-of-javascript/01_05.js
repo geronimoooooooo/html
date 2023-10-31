@@ -81,10 +81,51 @@ const arr = [
     { skills: ['HTML', 'CSS', 'JS', 'React', 'Python'] }
 ] // arr containing different data types
 
+Array functions: Array, length, concat, indexOf, slice, splice, join, toString, includes, lastIndexOf, isArray, fill, push, pop, shift, unshift
+
 #####################################################################################
-################################ 05 - Arrays ########################################
+################################ 06 - Loops #########################################
+
+for(initialization, condition, increment/decrement){
+for(let i = 0; i <= 5; i++){
+  console.log(i)
+}
+
+const numbers = [1, 2, 3, 4, 5]
+for (const num of numbers) {
 #####################################################################################
-################################ 05 - Arrays ########################################
+################################ 07 - Functions #####################################
+
+Declaration function
+Expression function
+Anonymous function
+Arrow function
+
+function sumAllNums() {
+  let sum = 0
+  for (let i = 0; i < arguments.length; i++) {
+    sum += arguments[i]
+  }
+  return sum
+}
+console.log(sumAllNums(1, 2, 3, 4)) // 10
+-----------------
+Anonymous function or without name
+const anonymousFun = function() {
+  console.log(
+    'I am an anonymous function and my value is stored in anonymousFun'
+  )
+}
+--------------------------
+// Declaring a function with default value
+function functionName(param = value) {
+  //codes
+}
+
+// Calling function
+functionName()
+functionName(arg)
+----------------------------
 #####################################################################################
 ################################ 05 - Arrays ########################################
 #####################################################################################
