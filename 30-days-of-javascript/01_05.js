@@ -127,6 +127,33 @@ functionName()
 functionName(arg)
 ----------------------------
 #####################################################################################
-################################ 05 - Arrays ########################################
+################################ 08 - Scope & Objects ###############################
+
++ local (in block or function scope)
++ global (alles ohne var, let, const)
++ var only scoped to function but variable declared with let or const is block scope(function block, if block, loop block, etc
++ let for any value which change 
++ const for any constant value, and for an array, object, arrow function and function expression.
+-------------------------------
+An empty object
+const person = {}
+
+const person = {
+  firstName: 'Asabeneh',
+  age: 250,
+  country: 'Finland',
+  city: 'Helsinki',
+  skills: [
+    'HTML',
+    'CSS',
+    'JavaScript'
+  ],
+  getFullName: function() {
+    return `${this.firstName} ${this.lastName}`
+  }
+}
+person.nationality = 'Ethiopian'
+person.country = 'Finland'
+
 #####################################################################################
 ################################ 05 - Arrays ########################################
