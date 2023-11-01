@@ -156,4 +156,24 @@ person.nationality = 'Ethiopian'
 person.country = 'Finland'
 
 #####################################################################################
-################################ 05 - Arrays ########################################
+################################ 09 - Higher Order Function #########################
+
++ Higher order functions are functions which take other function as a parameter or return a function as a value. The function passed as a parameter is called callback.
++ forEach, map, filter, reduce, find, every, some, and sort
+
+//Filter countries containing land
+const countriesContainingLand = countries.filter((country) =>
+  country.includes('land')
+)
+console.log(countriesContainingLand)
+
+
+const scores = [
+  { name: 'Asabeneh', score: 95 },
+  { name: 'Mathias', score: 80 },
+  { name: 'Elias', score: 50 },
+  { name: 'Martha', score: 85 },
+  { name: 'John', score: 100 },
+]
+const score = scores.find((user) => user.score > 80)
+console.log(score)
