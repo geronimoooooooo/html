@@ -71,6 +71,7 @@ isBool ? doTrue:doFalse
 
 #####################################################################################
 ################################ 05 - Arrays ########################################
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/find?retiredLocale=de
 
 Array is collection of different data types
 const arr = [
