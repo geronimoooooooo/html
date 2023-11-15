@@ -66,7 +66,7 @@ if(){}
 else if(){}
 else(){
 
-termanry operator
+ternary operator
 isBool ? doTrue:doFalse
 
 #####################################################################################
