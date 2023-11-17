@@ -4,6 +4,10 @@ http://api.jquery.com/text/
 http://www.tutorialrepublic.com/jquery-tutorial/
 JSDT jQuery autocompletion: https://marketplace.eclipse.org/content/jsdt-jquery
 
+$()... shorthand notation/factory function
+jQuery used to select HTML elements
+jQuery settings überschreiben html settings bei Elementen
+
 
 <head>
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.2/jquery.min.js"></script> //muss vor .js sein wo jQuery code drin is
