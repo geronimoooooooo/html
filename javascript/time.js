@@ -13,6 +13,7 @@ https://www.flypenguin.de/2021/08/18/javascript-iso-date-with-local-timezone/
 ISO
 https://stackoverflow.com/questions/34053715/how-to-output-date-in-javascript-in-iso-8601-without-milliseconds-and-with-z
 https://www.freecodecamp.org/news/javascript-get-current-date-todays-date-in-js/
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date/toISOString
 
 let now = new Date();
 console.log(now.toISOString());
