@@ -3,19 +3,19 @@ Hier nach keywords suchen
 ######################## Positionierung ############################
 Text im Paragraphen centered: <p class="text-center">some text</p> <p style="text-align:end"> da gibt</p>
 .text-*, .text-left, -center, -right, -justify, text.lead, text-success
-
-
+um nur Text zu alignen:
+.container .text-start .text-center .text-end
+<div className="container text-start">
+  Aligned Text
+</div>
 
 ####################################################################
-
 .container .row .col-xs-4 ineinander
 .container-fluid
 .col-xs-4, -sm-, -md-, -lg-
 col-md-offset-4 bewegt nach rechts
 <small><mark><del><s>
 <dl><dt><dd> class="dl-horizontal"
-
-<code> <pre> &lt; &gt;
 
 .disabled .show .hidden .invisible, style="display:none", style="display:block", display-*, .fade/show 
 .visually-hidden label, attr: disabled/disabled="disabled"
@@ -26,11 +26,10 @@ table: .table .table-hover .table-striped, .table-info, -condensed info
 ############### TEXT
 .text-lowercase, -uppercase, -capitalize
 .text-muted, -primary,
-<div class="justify-content-between/center/text-center"
+<div class=" d-flex justify-content-between/center/text-center"
 
 button auf <a> <button> <input> anwendbar
 .btn, -lg, -sm, -primary, -block, .close
-
 
 .dropdown-toggle, -menu, -menu-right, -item, -divider, -header, -dropup
 select, option, .form-select
@@ -85,11 +84,6 @@ Position buttons: https://smartdevpreneur.com/the-ultimate-guide-to-aligning-boo
   </div>
 </div>
 
-um nur Text zu alignen:
-.container .text-start .text-center .text-end
-<div className="container text-start">
-  Aligned Text
-</div>
 
 ############################### CSS ##############################
 selector {property:value}
@@ -102,7 +96,6 @@ table.one {}
 ul em anwenden an em wenn es in ul liegt
 body>p: nur wenn p direktes kind von body is
 p[lang="de"], input[type="text"] Attribut Selektor
-
 
 ############################################
 ############################################
@@ -136,9 +129,7 @@ list-inline, list-group-item, div.list-group
  <h1 class="display-1">Display 1</h1>
 spacing: m-4, mt-4, pt-5
 
-
-<dl>dt,dd
- 
+<dl>dt,dd 
 ============ Visibility ============  
 data-autohid="false", label.visually-hidden
 attr: disabled, disabled="disabled"
@@ -162,7 +153,6 @@ div.row.align-items-center alle weiteren Elemente in diesem div werden vertikal 
 
 ####################### Button #######################
 .btn-close, .close &times;X
-
 div.toast,toast-container
 
 ####################### dropdown #######################
