@@ -1,4 +1,104 @@
+.container .row .col-xs-4 ineinander
+.container-fluid
+.col-xs-4, -sm-, -md-, -lg-
+col-md-offset-4 bewegt nach rechts
+<small><mark><del><s>
+<dl><dt><dd> class="dl-horizontal"
 
+<code> <pre> &lt; &gt;
+
+.disabled .show .hidden .invisible, style="display:none", style="display:block", display-*, .fade/show 
+.visually-hidden label, attr: disabled/disabled="disabled"
+visibility: hidden, attribut hidden = sagt dem Browser, dass ein Element nicht angezeigt werden soll
+
+table: .table .table-hover .table-striped, .table-info, -condensed info
+
+############### TEXT
+.text-*, .text-left, -center, -right, -justify, text.lead, text-success
+<p style="text-align: justify;"> da es kein .text-justify gibt
+.text-lowercase, -uppercase, -capitalize
+.text-muted, -primary,
+<div class="justify-content-between/center/text-center"
+
+button auf <a> <button> <input> anwendbar
+.btn, -lg, -sm, -primary, -block, .close
+
+
+.dropdown-toggle, -menu, -menu-right, -item, -divider, -header, -dropup
+select, option, .form-select
+
+.panel, -default, -heading, -body, -info, 
+
+############### LISTEN
+.list-inline, list-group-item
+<div class="list-group">
+
+############################### forms ##############################
+.form-control, -lg auf input, textarea, select, label (.form-label), checkbox(.form-check), radio(.form-check-input) dann haben sie width 100%
+.form-group .form-group-lg
+.form-horizontal triggers .form-group to behave like row
+.form-inline erlaubt mehrere Elemente auf 1. Zeile
+.form-floating
+-> checkbox: <div class="form-check" (damit label+checkbox next2eachother)
+.checkbox-inline
+
+.input-lg, .input-sm
+.input-group, .input-group-addon  @ graue Fläche in 1. Zeile
+
+.col-form-label rückt den Text etwas weiter nach unten als .form-label
+    
+############################### positioning ##############################
+.pull-left,-right mit sind deprecated
+.float-start .float-end left-align und right-align elements. .clearfix einen div drüber anwenden
+.navbar-left
+.center-block
+.fixed-top .sticky-top
+.clearfix
+.w-50 .h-50 für <div>
+
+.mb-3 .ml-auto .mx-2  margin utility classes
+.m-4, mt-4, .mx-auto="center", m,p,t,b,s,e,x
+
+<div .row .align-items-center Alle weiteren Elemente in diesem div werden vertikal mittig
+mit .mx-auto kann man horizontal einen fixed block centern
+<div class="mx-auto" style="width: 200px;">
+  Centered element
+</div>
+
+https://smartdevpreneur.com/bootstrap-align-right-left-and-center-the-complete-tutorial/
+.justify-content-between MIT .d-flex
+horizontally: d-flex justify-content-start justify-content-center justify-content-end justify-content-around
+vertically: align-items-center -start -end darüber muss .d-flex sein
+
+Position buttons: https://smartdevpreneur.com/the-ultimate-guide-to-aligning-bootstrap-buttons/
+<div class="container my-3 bg-light">
+  <div class="col-md-12 text-end">
+      <button type="button" class="btn btn-primary">Submit</button>            
+  </div>
+</div>
+
+um nur Text zu alignen:
+.container .text-start .text-center .text-end
+<div className="container text-start">
+  Aligned Text
+</div>
+
+############################### CSS ##############################
+selector {property:value}
+
+table {border:1px solid #c00}
+table.one {}
+
+* {border-radius: 0 !import;} wird alles eckig
+
+ul em anwenden an em wenn es in ul liegt
+body>p: nur wenn p direktes kind von body is
+p[lang="de"], input[type="text"] Attribut Selektor
+
+
+############################################
+############################################
+############################################
 .bg-*; .text-*
 
 data-toggle, form-floating
