@@ -36,11 +36,14 @@ data-autohid="false", label.visually-hidden
 attr: disabled, disabled="disabled"
 area-hidden="true" entfernt das Element von dem Zugriff der API. Tells screen-readers dass das Element ignoriert werden soll
 display:none, visibility:hidden == style="visibility: hidden;"
+ <p id="id2" style="display:none">
 attr hidden: sagt dem Browser, dass ein Element nicht angezeigt werden soll  
  
 ####################### Positionierung ####################### 
 div.d-flex, .justify-content-between
+  <div class="clearfix">  ensures that a div fully expands
 .text-*, .display-*
+ div style="float:left" to enclose its floating children
 div.fixed-top .clearfix  .w-50, .h-50 für div
 .mx-auto=center
 div.row.align-items-center alle weiteren Elemente in diesem div werden vertikal mimttig  
