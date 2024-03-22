@@ -28,6 +28,7 @@ https://github.com/Asabeneh/30-Days-Of-JavaScript/blob/master/02_Day_Data_types/
 + Everything in JavaScript is an object
 + immutable types (prmitive data types): sobald einmal der Wert zugewiesen wurde, kann dieser nicht mmehr verändert werden.
 Möchte man den Wert verändern, dann wird ein komplett neuer Wert zugewiesen.
++ compare mit ==
 + nicht primitive datentypen (reference types): hier kann der Wert verändert werden
 ++ Arrays
 ++ Objects
@@ -37,7 +38,9 @@ Möchte man den Wert verändern, dann wird ein komplett neuer Wert zugewiesen.
 + template String: `String literal text ${expression}`
 + Auflistung fast aller Funktionen die auf String, Mathe angewendet werden können
 + check the type of a var: typeof var
-+ Casting: Converting von einem data type in einen anderen
++ Casting: Converting von einem data type in einen anderen. 
+++ From String to real number! parseInt(), parseFloat(), Number(), Plus sign(+)
++ includes(), concat()
 
 #####################################################################################
 ################################ 03 - Boolean, Operators, Date ######################
