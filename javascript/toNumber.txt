@@ -1,0 +1,24 @@
+use lodash lib
+https://deadsimplechat.com/blog/5-ways-to-convert-string-to-a-number-in-javascript/
+Number()
+let input = "100px";
+let number = parseInt(inputString, 10); // number will be 100
+let inputString = "100Something";
+let number = parseFloat(inputString); // number will be 100
+
+Number(value) returns NaN falls es nicht in int oder float umgewandelt werden kann
+If the value cannot be converted to a number, NaN is returned.
+Number('123');          // 123
+Number('12.3');         // 12.3
+Number('123e-1');       // 12.3, exponential notation
+Number('');             // 0, empty string
+Number('0x11');         // 17, hexadecimal
+Number('0b11');         // 3, binary
+Number('0o11');         // 9, octal
+Number('foo');          // NaN, non-numeric string
+Number('100a');         // NaN, invalid numeric string
+Number(true);           // 1
+Number(false);          // 0
+Number(null);           // 0
+Number(undefined);      // NaN
+Number({ valueOf: () => '123' }); // 123, object with valueOf method
