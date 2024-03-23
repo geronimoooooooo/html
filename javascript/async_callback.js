@@ -44,7 +44,40 @@ promise.then(
   error => alert(error) // shows "Error: Whoops!" after 1 second
 );
 #######################################################################
+  await getHtml();
+console.log('2');
+  
+  getHtml()
+ .then(() => {
+    console.log('2');
+ });
+  --------------------------------------------------
+    async function getHtml() {
+  const request = await $.get('https://jsonplaceholder.typicode.com/posts/1')  
+  return request
+}
+
+getHtml()
+  .then((data) => { console.log('1')})
+  .then(() => { console.log('2')});
+  
+// OR 
+
+(async() => {
+  console.log('1')
+  await getHtml()  
+  console.log('2')
+})()
 #######################################################################
+  app.post("/api/shorturl/new", async (req, res) => {
+  try {
+    let result = await CheckUrl(req.body.url);
+    res.send(result)
+  }
+  catch (error) {
+    return new Error('Could not receive post');
+  }
+});
 #######################################################################
 #######################################################################
 #######################################################################
