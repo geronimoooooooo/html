@@ -24,19 +24,17 @@ Number(undefined);      // NaN
 Number({ valueOf: () => '123' }); // 123, object with valueOf method
 
 ######################################################################
-const arr2 = [0,'0.00', null, false, true, "42", "42,25", " ",'aa.a','undefined', NaN, [], Infinity, Math.PI, 999999999999999]
+const arr = [0,'0.00', "42", "42,25", Infinity, Math.PI, 999999999999999, null, false, true, '*', " ",'aa.a','undefined', NaN, [], {}]
+//value muss von typ number oder string sein; falls string, dann kein NaN erlaubt
+//if isNumeric ==true => Number() anwenden
 const isNumeric = (num) => (typeof(num) === 'number' || typeof(num) === "string" && num.trim() !== '') && !isNaN(num);
 
-for (let item of arr2) {
+for (let item of arr) {
     if(typeof item ==='string'){    
         if (item.includes(",")){            
             item = item.replace(',', '.'); 
         } 
     }  
     console.log(item+ ": "+isNumeric(item))
-    if(isNumeric(item)){
-        let num = Number(item);
-        console.log(Number(num));
-    }
-}
+ }
 ###########################################################################
