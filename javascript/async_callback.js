@@ -1,4 +1,5 @@
 + https://javascript.info/async
++ https://www.codecademy.com/learn/introduction-to-javascript/modules/asynch-js/cheatsheet
 + express-async-handler https://www.npmjs.com/package/express-async-handler
 + Vergleiche mit Promise und async/await https://blog.risingstack.com/mastering-async-await-in-nodejs/
 
