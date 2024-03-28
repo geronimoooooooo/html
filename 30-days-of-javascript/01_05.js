@@ -46,7 +46,7 @@ Möchte man den Wert verändern, dann wird ein komplett neuer Wert zugewiesen.
 ################################ 03 - Boolean, Operators, Date ######################
 
 true: -1,1,"a",
-false: 0, null, undefined, ""
+falsy: "", null, undefined, 0, false, NaN
 
 let number = prompt('Enter number', 'number goes here')
 console.log(number)
@@ -105,6 +105,8 @@ Expression function
 Anonymous function
 Arrow function
 
+//mit arguments[] auf die einzelnen argumente zugreifen. unlimited amount of arguments
+//bei arrow function wäre es mit (...args)
 function sumAllNums() {
   let sum = 0
   for (let i = 0; i < arguments.length; i++) {
