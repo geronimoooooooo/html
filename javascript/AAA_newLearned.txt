@@ -1,0 +1,3 @@
+17.6 
+  const points = new Array(40);
+  points.length == 40
