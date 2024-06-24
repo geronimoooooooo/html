@@ -120,12 +120,6 @@ http://www.tutorialspoint.com/jquery/jquery-ajax.htm
 https://api.jquery.com/category/ajax/
 http://www.w3schools.com/jquery/jquery_ref_ajax.asp
 
-################## Express ##################
-https://www.blog.duomly.com/which-web-development-stack-to-use/#3-what-are-the-most-popular-web-development-stacks-for-full-stack-developers
-https://www.javatpoint.com/install-expressjs
-https://www.netguru.com/glossary/node-js
-https://www.w3schools.com/nodejs/default.asp
-
 ################## React ##################
 https://www.w3schools.com/REACT/default.asp
 https://www.tutorialspoint.com/reactjs/index.htm
