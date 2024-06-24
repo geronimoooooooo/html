@@ -7,6 +7,26 @@ Links zu Navbars
     https://colorlib.com/wp/bootstrap-navbar/
 
 ------------------------------------------------------------------------------
++ Use pills, die bei aktiver Seite active sind.
++ folgendes in js.js kopieren
+// JavaScript to dynamically set the active link
+document.addEventListener('DOMContentLoaded', function() {    
+    const currentPage = window.location.pathname;
+    if (currentPage.includes('station-query')) {
+        document.getElementById('station-query').classList.add('active');
+    } else if (currentPage.includes('config-upload')) {
+       document.getElementById('config-upload').classList.add('active');
+    } else if (currentPage.includes('compare-umweltparameter')) {
+       document.getElementById('compare-umweltparameter').classList.add('active');
+    }
+});
++ in .ejs kurz vor body einbinden: <script src="/j_js.js"></script>. Ganz oben funktioniert nicht.
+
+
+<nav class="nav nav-pills ">
+  <a class="nav-link" href="/station-query" id="station-query">Station abfragen</a>
+  <a class="nav-link" href="/config-upload" id="config-upload">Konfigurationsdatei angeben</a>
+</nav>
 ------------------------------------------------------------------------------
 ------------------------------------------------------------------------------
 ------------------------------------------------------------------------------
