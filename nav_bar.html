@@ -20,10 +20,29 @@ document.addEventListener('DOMContentLoaded', function() {
        document.getElementById('compare-umweltparameter').classList.add('active');
     }
 });
-+ in .ejs kurz vor body einbinden: <script src="/j_js.js"></script>. Ganz oben funktioniert nicht.
+----------------------
+// JavaScript to dynamically set the active link
+document.addEventListener('DOMContentLoaded', function() {    
+    let currentPage = window.location.pathname;
+    
+    if(currentPage=="/"){
+        currentPage="/home";
+    }
+    
+    if (typeof currentPage !== 'undefined') {
+        let linkId = currentPage.substring(1); //removes first char    
+        let linkElement = document.getElementById(linkId);
+        if (linkElement) {
+            linkElement.classList.add('active');
+        }
+    }
+});
 
++ <script src="j_js.js"></script>.
 
 <nav class="nav nav-pills ">
+  <a class="nav-link" href="/" id="home">Home</a>
+  <a class="nav-link" href="/compare-umweltparameter" id="compare-umweltparameter">Umweltparameter vergleichen</a>
   <a class="nav-link" href="/station-query" id="station-query">Station abfragen</a>
   <a class="nav-link" href="/config-upload" id="config-upload">Konfigurationsdatei angeben</a>
 </nav>
